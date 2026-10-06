@@ -31,7 +31,6 @@ A modular, production-grade sales analytics and business intelligence solution.
 10. [Exploratory Data Analysis & Visualizations](#exploratory-data-analysis--visualizations)
 11. [Power BI Dashboard & DAX Measures](#power-bi-dashboard--dax-measures)
 12. [Key Business Insights](#key-business-insights)
-13. [Future Cloud Scalability Roadmap](#future-cloud-scalability-roadmap)
 
 ---
 
@@ -299,25 +298,6 @@ Average Order Value = DIVIDE([Total Sales], DISTINCTCOUNT(cleaned_sales_data[Ord
    * While generating lower gross revenue ($31.5K), Office Supplies boasts the highest profit margin (**27.1%**).
 4. **Regional Consistency**:
    * Sales are evenly balanced across all four territories (East leads at $311.5K, followed by North at $284.4K, West at $248.5K, and South at $233.8K), with South achieving the highest margin rate (**14.6%**).
-
----
-
-## ☁️ Future Cloud Scalability Roadmap
-
-For enterprise cloud production environments, this pipeline architecture can scale using modern cloud patterns:
-
-1. **Cloud Object Storage (Data Lake)**:
-   * Store landing CSV files in cloud object storage (**Azure Data Lake Storage Gen2** or **AWS S3**) following Medallion architecture (`bronze/raw`, `silver/cleansed`, `gold/curated`).
-2. **Distributed Big Data Processing**:
-   * Migrate Pandas ETL to **PySpark** running on **Databricks** or **Apache Spark** for scaling to millions of transactions.
-3. **Cloud Data Warehousing**:
-   * Load clean datasets into **Snowflake**, **Azure Synapse Analytics**, or **Amazon Redshift** with automated partition keys and cluster keys.
-4. **Pipeline Orchestration**:
-   * Automate the scheduled batch pipeline using **Apache Airflow** or **Azure Data Factory** DAGs with automated data quality validation and monitoring alerts.
-5. **Real-time Streaming**:
-   * Ingest sales transactions via **Apache Kafka** or cloud message brokers, processed with **Spark Structured Streaming**.
-
----
 
 ## 👨‍💻 Author
 
