@@ -1,0 +1,816 @@
+Order ID,Order Date,Customer Name,Product,Category,Region,Quantity,Unit Price,Sales,Discount,Profit
+ORD-2023-1197,06-12-2024,,ThinkPad Carbon X1,Technology,South,5,1150.0,4887.5,0.15,331.06
+ORD-2023-1300,15/08/2023,Aarav Sharma,Mechanical Keyboard RGB,Technology,West,5,129.0,612.75,0.05,138.23
+ORD-2023-1389,2023-02-26,Olivia White,AirPods Pro,Technology,East,3,249.0,672.3,0.1,88.25
+ORD-2023-1228,2024-04-05,Emily Taylor,Ergonomic Office Chair,Furniture,South,3,289.0,823.65,0.05,117.38
+ORD-2024-1665,2023-02-20,Amit Joshi,ThinkPad Carbon X1,Technology,West,7,1150.0,7647.5,0.05,1360.75
+ORD-2024-1709,2023-02-06,Pooja Desai,USB-C Multiport Hub,Technology,East,7,49.0,343.0,0.0,75.23
+ORD-2023-1200,12/04/2023,Arjun Kapoor,USB-C Multiport Hub,Technology,South,3,49.0,147.0,0.0,37.79
+ORD-2023-1337,2024-05-27,Aarav Sharma,Steel Filing Cabinet,Furniture,North,5,140.0,595.0,0.15,-2.55
+ORD-2023-1339,2023-07-31,Emma Johnson,Steel Filing Cabinet,Furniture,North,8,140.0,952.0,0.15,49.83
+ORD-2024-1529,2023-01-10,Emma Johnson,Wooden Bookshelf 5-Tier,Furniture,South,4,180.0,720.0,0.0,119.09
+ORD-2023-1067,2024-06-17,Sneha Nair,Mechanical Keyboard RGB,Technology,West,2,129.0,232.2,0.1,41.6
+ORD-2024-1734,22/07/2023,Kavita Rao,LED Desk Lamp with Wireless Charger,Furniture,North,8,55.0,352.0,0.2,4.16
+ORD-2023-1406,2023-11-03,Ananya Singh,MacBook Air M2,Technology,West,8,999.0,6393.6,0.2,161.07
+ORD-2023-1357,31/07/2023,Priya Patel,Heavy-Duty Paper Shredder,Office Supplies,East,5,89.0,356.0,0.2,60.23
+ORD-2023-1261,05/12/2023,Neha Gupta,Gel Pen Set 12-Pack,Office Supplies,South,1,15.0,12.0,0.2,1.24
+ORD-2023-1429,2023-09-13,Emma Johnson,Mechanical Keyboard RGB,Technology,North,1,129.0,129.0,0.0,32.14
+ORD-2023-1317,2024-04-06,Emma Johnson,LED Desk Lamp with Wireless Charger,Furniture,West,7,55.0,365.75,0.05,44.52
+ORD-2023-1110,2023-11-28,Manoj Kumar,Electric Standing Desk,Furniture,North,8,450.0,3060.0,0.15,236.39
+ORD-2024-1486,2023-04-18,Daniel Clark,iPad Air,Technology,East,2,599.0,1198.0,,287.74
+ORD-2024-1534,2023-06-07,Deepak Chopra,USB-C Multiport Hub,Technology,North,2,49.0,98.0,0.0,27.01
+ORD-2023-1140,2024-01-16,Sneha Nair,Steel Filing Cabinet,Furniture,North,6,140.0,672.0,0.2,1.92
+ORD-2023-1068,2023-12-10,Robert Martinez,ThinkPad Carbon X1,Technology,South,3,1150.0,3277.5,0.05,687.78
+ORD-2023-1240,04-03-2023,Emily Taylor,Wooden Bookshelf 5-Tier,Furniture,South,4,180.0,576.0,0.2,-5.93
+ORD-2024-1771,05/09/2023,Olivia White,Stapler & Punch Kit,Office Supplies,South,6,18.0,102.6,0.05,33.74
+ORD-2023-1040,2023-09-29,Emma Johnson,ThinkPad Carbon X1,Technology,South,6,1150.0,6210.0,0.1,1154.92
+ORD-2023-1031,04-06-2023,Sneha Nair,AirPods Pro,Technology,West,8,249.0,1693.2,0.15,224.9
+ORD-2023-1421,2023-02-27,Sneha Nair,MacBook Air M2,Technology,West,1,999.0,899.1,0.1,106.46
+ORD-2023-1210,06/03/2023,David Wilson,Dell XPS 15,Technology,East,4,1250.0,5000.0,0.0,1083.56
+ORD-2023-1211,2023-02-12,Pooja Desai,Conference Room Table,Furniture,West,8,620.0,4464.0,0.1,580.67
+ORD-2023-1079,28/04/2023,Ananya Singh,"4K Ultra HD Monitor 27""",Technology,North,1,349.0,314.1,0.1,46.74
+ORD-2023-1347,2023-05-18,Sneha Nair,"4K Ultra HD Monitor 27""",Technology,North,3,349.0,942.3,0.1,130.38
+ORD-2023-1232,2023-06-07,Daniel Clark,Dry Erase Whiteboard 36x24,Office Supplies,East,1,65.0,65.0,0.0,25.37
+ORD-2024-1636,2024-05-01,Vikram Reddy,Ergonomic Office Chair,Furniture,North,4,289.0,1098.2,0.05,150.29
+ORD-2023-1405,2023-12-02,Deepak Chopra,Logitech MX Master 3,Technology,East,7,99.0,554.4,0.2,52.73
+ORD-2024-1708,2023-10-19,Deepak Chopra,Mesh Desktop Organizer,Office Supplies,South,8,25.0,160.0,0.2,31.36
+ORD-2023-1024,2023-01-22,Sneha Nair,Heavy-Duty Paper Shredder,Office Supplies,South,1,89.0,89.0,0.0,28.04
+ORD-2023-1205,2023-12-28,Sarah Davis,AirPods Pro,Technology,North,6,249.0,1494.0,0.0,304.37
+ORD-2023-1399,2024-06-16,Emma Johnson,Wooden Bookshelf 5-Tier,Furniture,North,2,180.0,288.0,0.2,3.35
+ORD-2023-1064,2024-06-14,Robert Martinez,Logitech MX Master 3,Technology,North,8,99.0,752.4,0.05,131.38
+ORD-2023-1315,2023-03-22,Emma Johnson,Dell XPS 15,Technology,North,7,1250.0,8312.5,0.05,1425.43
+ORD-2023-1066,12/06/2023,James Anderson,Wooden Bookshelf 5-Tier,Furniture,East,4,180.0,648.0,0.1,42.29
+ORD-2024-1517,2024-06-19,Michael Brown,Samsung Galaxy S23,Technology,North,1,799.0,759.05,0.05,166.7
+ORD-2024-1707,2023-11-02,Rohan Mehta,Dell XPS 15,Technology,North,7,1250.0,8312.5,0.05,1899.57
+ORD-2023-1138,25/05/2023,Sneha Nair,Gel Pen Set 12-Pack,Office Supplies,West,6,15.0,90.0,0.0,27.46
+ORD-2023-1236,11-17-2023,John Smith,Dry Erase Whiteboard 36x24,Office Supplies,East,7,65.0,432.25,0.05,117.72
+ORD-2023-1213,03-23-2024,Swati Iyer,Wooden Bookshelf 5-Tier,Furniture,West,6,180.0,1026.0,0.05,140.73
+ORD-2024-1533,08-07-2023,Sarah Davis,iPad Air,Technology,South,7,599.0,4193.0,0.0,923.5
+ORD-2023-1276,2023-06-18,Emily Taylor,Wooden Bookshelf 5-Tier,Furniture,North,4,180.0,576.0,0.2,-13.76
+ORD-2023-1445,2024-03-21,Arjun Kapoor,Samsung Galaxy S23,Technology,East,6,799.0,4794.0,0.0,1308.94
+ORD-2024-1573,2024-02-23,Aarav Sharma,Mesh Desktop Organizer,Office Supplies,North,2,25.0,40.0,0.2,9.96
+ORD-2024-1711,2023-08-03,Daniel Clark,Dell XPS 15,Technology,North,2,1250.0,2125.0,0.15,180.19
+ORD-2023-1413,2024-05-05,Amit Joshi,Electric Standing Desk,Furniture,South,7,450.0,2992.5,0.05,373.55
+ORD-2024-1735,2024-04-24,Pooja Desai,Gel Pen Set 12-Pack,Office Supplies,West,8,15.0,114.0,0.05,28.36
+ORD-2024-1677,2024-04-13,Deepak Chopra,MacBook Air M2,Technology,North,4,999.0,3196.8,0.2,222.2
+ORD-2023-1425,2024-01-01,Olivia White,AirPods Pro,Technology,West,5,249.0,1120.5,0.1,211.42
+ORD-2023-1329,2023-09-06,Amit Joshi,Electric Standing Desk,Furniture,East,2,450.0,720.0,0.2,3.61
+ORD-2024-1535,2023-09-15,Olivia White,Logitech MX Master 3,Technology,East,7,99.0,589.05,0.15,65.08
+ORD-2023-1087,2023-09-22,Daniel Clark,Mesh Desktop Organizer,Office Supplies,East,1,25.0,20.0,0.2,2.16
+ORD-2023-1334,2023-03-29,Sneha Nair,Gel Pen Set 12-Pack,Office Supplies,East,3,15.0,36.0,0.2,8.76
+ORD-2024-1553,02/09/2023,,Gel Pen Set 12-Pack,Office Supplies,South,3,15.0,38.25,0.15,10.39
+ORD-2024-1603,2023-08-30,Michael Brown,Sony WH-1000XM5,Technology,South,3,399.0,1017.45,0.15,78.46
+ORD-2024-1609,2024-01-26,David Wilson,Premium Notebook 3-Pack,Office Supplies,South,3,22.0,59.4,0.1,16.46
+ORD-2023-1121,2023-02-07,,USB-C Multiport Hub,Technology,North,8,49.0,392.0,0.0,93.27
+ORD-2024-1463,2024-01-19,Daniel Clark,Wireless Laser Pointer,Office Supplies,East,5,29.0,145.0,0.0,49.62
+ORD-2023-1209,13/12/2023,Ananya Singh,Stapler & Punch Kit,Office Supplies,West,8,18.0,136.8,0.05,36.38
+ORD-2023-1169,2024-05-13,Pooja Desai,Dell XPS 15,Technology,South,7,1250.0,7000.0,0.2,661.65
+ORD-2024-1530,2023-11-25,Neha Gupta,Electric Standing Desk,Furniture,East,5,450.0,2250.0,0.0,330.96
+ORD-2023-1050,2023-04-21,Priya Patel,Steel Filing Cabinet,Furniture,South,4,140.0,476.0,0.15,23.54
+ORD-2023-1097,2023-11-08,Sneha Nair,iPad Air,Technology,West,4,599.0,1916.8,0.2,118.77
+ORD-2023-1156,12/04/2023,Neha Gupta,Premium Notebook 3-Pack,Office Supplies,South,7,22.0,130.9,0.15,22.09
+ORD-2023-1310,2024-05-02,Aarav Sharma,Mesh Desktop Organizer,Office Supplies,South,2,25.0,42.5,0.15,7.43
+ORD-2024-1543,02-25-2023,,Wooden Bookshelf 5-Tier,Furniture,North,5,180.0,900.0,0.0,179.95
+ORD-2023-1199,2024-02-10,Sneha Nair,Electric Standing Desk,Furniture,North,6,450.0,2565.0,,452.91
+ORD-2023-1309,2023-03-24,Arjun Kapoor,Stapler & Punch Kit,Office Supplies,North,2,18.0,30.6,0.15,7.36
+ORD-2023-1034,2023-03-01,Robert Martinez,Dell XPS 15,Technology,East,1,1250.0,1250.0,0.0,291.58
+ORD-2023-1032,02-15-2024,Ananya Singh,Electric Standing Desk,Furniture,North,7,450.0,2835.0,0.1,144.52
+ORD-2024-1602,2024-02-15,Ananya Singh,Heavy-Duty Paper Shredder,Office Supplies,South,4,89.0,356.0,0.0,111.61
+ORD-2023-1297,2023-07-29,Sneha Nair,LED Desk Lamp with Wireless Charger,Furniture,East,5,55.0,233.75,0.15,8.99
+ORD-2023-1332,07/06/2023,Michael Brown,ThinkPad Carbon X1,Technology,West,8,1150.0,7360.0,0.2,441.01
+ORD-2023-1384,2023-03-09,Sarah Davis,Dry Erase Whiteboard 36x24,Office Supplies,South,1,65.0,61.75,0.05,22.08
+ORD-2023-1212,2023-07-15,Manoj Kumar,Dell XPS 15,Technology,East,5,1250.0,6250.0,0.0,1350.33
+ORD-2023-1435,2023-12-06,Rahul Verma,Executive Leather Chair,Furniture,East,5,350.0,1575.0,0.1,176.74
+ORD-2024-1468,24/06/2023,Robert Martinez,AirPods Pro,Technology,East,2,249.0,423.3,0.15,59.64
+ORD-2023-1073,2024-06-30,Michael Brown,Heavy-Duty Paper Shredder,Office Supplies  ,  North ,2,89.0,151.3,0.15,41.6
+ORD-2023-1078,2023-08-12,Amit Joshi,Stapler & Punch Kit,Office Supplies,East,3,18.0,43.2,0.2,6.87
+ORD-2024-1600,2023-04-14,Daniel Clark,Mechanical Keyboard RGB,Technology,South,5,129.0,612.75,0.05,134.45
+ORD-2024-1518,06-14-2023,Kavita Rao,Mechanical Keyboard RGB,Technology,South,1,129.0,116.1,0.1,21.11
+ORD-2023-1219,2024-01-11,Olivia White,Dell XPS 15,Technology,South,8,1250.0,9000.0,0.1,1502.39
+ORD-2023-1282,2023-05-17,Emma Johnson,iPad Air,Technology,South,7,599.0,3354.4,0.2,292.72
+ORD-2024-1638,2023-04-20,Sneha Nair,USB-C Multiport Hub,Technology,East,8,49.0,372.4,0.05,89.49
+ORD-2024-1663,2023-08-15,Kavita Rao,Dry Erase Whiteboard 36x24,Office Supplies,West,8,65.0,416.0,0.2,68.1
+ORD-2023-1356,01/05/2023,Sneha Nair,Sony WH-1000XM5,Technology,East,7,399.0,2653.35,0.05,504.72
+ORD-2024-1744,2024-01-24,Arjun Kapoor,Gel Pen Set 12-Pack,Office Supplies,North,2,15.0,28.5,0.05,7.56
+ORD-2023-1260,2023-09-03,Kavita Rao,Conference Room Table,Furniture,South,4,620.0,2480.0,0.0,525.72
+ORD-2023-1364,15/03/2024,James Anderson,Mechanical Keyboard RGB,Technology,East,5,129.0,580.5,0.1,87.86
+ORD-2024-1488,05-23-2024,Deepak Chopra,Steel Filing Cabinet,Furniture,East,4,140.0,560.0,0.0,122.63
+ORD-2024-1451,2023-11-07,James Anderson,Mesh Desktop Organizer,Office Supplies,North,4,25.0,95.0,0.05,31.39
+ORD-2024-1577,09-17-2023,Olivia White,Ergonomic Office Chair,Furniture,West,3,289.0,867.0,0.0,138.87
+ORD-2024-1617,11-30-2023,David Wilson,LED Desk Lamp with Wireless Charger,Furniture,East,8,55.0,418.0,0.05,40.67
+ORD-2023-1214,2024-05-24,Emily Taylor,Mechanical Keyboard RGB,Technology,,7,129.0,903.0,0.0,221.73
+ORD-2024-1587,2023-09-25,Emily Taylor,iPad Air,Technology,North,5,599.0,2695.5,0.1,312.2
+ORD-2023-1055,2024-03-22,Robert Martinez,Gel Pen Set 12-Pack,Office Supplies,,6,15.0,76.5,0.15,21.74
+ORD-2024-1766,2023-12-20,Amit Joshi,Stapler & Punch Kit,Office Supplies,North,1,18.0,17.1,0.05,5.3
+ORD-2024-1545,03-13-2023,John Smith,Steel Filing Cabinet,Furniture,West,6,140.0,672.0,0.2,-27.51
+ORD-2024-1635,2023-10-10,Michael Brown,Logitech MX Master 3,Technology,North,1,99.0,79.2,0.2,1.71
+ORD-2023-1267,2023-12-05,David Wilson,Premium Notebook 3-Pack,Office Supplies,East,3,22.0,66.0,0.0,20.57
+ORD-2023-1098,2024-03-29,,Executive Leather Chair,Furniture,East,1,350.0,280.0,0.2,-19.88
+ORD-2023-1430,03-05-2024,Sarah Davis,Steel Filing Cabinet,Furniture,West,6,140.0,672.0,0.2,-8.42
+ORD-2023-1077,24/07/2023,Daniel Clark,Samsung Galaxy S23,Technology,South,3,799.0,2037.45,0.15,183.23
+ORD-2023-1286,2023-02-04,Kavita Rao,Mesh Desktop Organizer,Office Supplies,North,4,25.0,100.0,0.0,35.17
+ORD-2024-1527,2024-06-01,Robert Martinez,LED Desk Lamp with Wireless Charger,Furniture,West,2,55.0,99.0,0.1,11.25
+ORD-2024-1780,2024-03-17,,iPad Air,Technology,West,5,599.0,2995.0,0.0,830.25
+ORD-2023-1245,2023-12-14,Emma Johnson,Stapler & Punch Kit,Office Supplies,South,4,18.0,57.6,0.2,10.0
+ORD-2024-1631,2024-03-29,Priya Patel,Sony WH-1000XM5,Technology,West,2,399.0,638.4,0.2,21.32
+ORD-2023-1432,2023-02-04,John Smith,Mechanical Keyboard RGB,Technology,North,2,129.0,232.2,0.1,42.93
+ORD-2023-1039,2023-03-16,Daniel Clark,Heavy-Duty Paper Shredder,Office Supplies,North,2,89.0,142.4,0.2,31.05
+ORD-2023-1085,2023-10-02,Sneha Nair,ThinkPad Carbon X1,Technology,East,8,1150.0,8740.0,0.05,1563.65
+ORD-2023-1011,02/02/2023,Michael Brown,Mechanical Keyboard RGB,Technology,North,4,129.0,412.8,0.2,5.1
+ORD-2024-1736,05-28-2023,Daniel Clark,Mechanical Keyboard RGB,Technology,East,7,129.0,857.85,0.05,157.15
+ORD-2023-1111,2024-06-14,Manoj Kumar,Steel Filing Cabinet,Furniture,West,1,140.0,133.0,0.05,20.81
+ORD-2024-1754,2023-01-08,Swati Iyer,Logitech MX Master 3,Technology,East,7,99.0,554.4,0.2,23.49
+ORD-2024-1487,24/07/2023,Emily Taylor,Sony WH-1000XM5,Technology,East,7,399.0,2513.7,0.1,466.91
+ORD-2023-1216,2024-03-12,David Wilson,Ergonomic Office Chair,Furniture,West,1,289.0,260.1,0.1,20.46
+ORD-2024-1793,2023-05-14,Arjun Kapoor,Dell XPS 15,Technology,East,2,1250.0,2125.0,0.15,202.75
+ORD-2024-1482,2023-01-23,Ananya Singh,iPad Air,Technology,East,1,599.0,509.15,0.15,35.87
+ORD-2023-1395,08/11/2023,Sneha Nair,Wooden Bookshelf 5-Tier,Furniture,East,8,180.0,1368.0,0.05,160.42
+ORD-2023-1119,2024-01-22,John Smith,Sony WH-1000XM5,Technology  ,  South ,7,399.0,2653.35,0.05,451.12
+ORD-2024-1738,2023-12-26,Ananya Singh,"4K Ultra HD Monitor 27""",Technology,East,3,349.0,837.6,0.2,75.14
+ORD-2024-1466,05-24-2024,Amit Joshi,Executive Leather Chair,Furniture,West,7,350.0,2450.0,0.0,424.73
+ORD-2023-1030,2024-04-18,Rohan Mehta,Wooden Bookshelf 5-Tier,Furniture  ,  North ,1,180.0,144.0,0.2,-8.44
+ORD-2023-1440,2024-04-01,David Wilson,Wooden Bookshelf 5-Tier,Furniture,East,4,180.0,648.0,0.1,53.9
+ORD-2024-1713,16/06/2024,James Anderson,Steel Filing Cabinet,Furniture,South,4,140.0,504.0,0.1,23.33
+ORD-2023-1343,2023-07-22,Sarah Davis,Electric Standing Desk,Furniture  ,  North ,4,450.0,1710.0,0.05,265.92
+ORD-2023-1303,2023-03-02,Rohan Mehta,Gel Pen Set 12-Pack,Office Supplies,North,1,15.0,12.75,0.15,3.5
+ORD-2023-1082,2024-01-15,Arjun Kapoor,USB-C Multiport Hub,Technology,North,7,49.0,291.55,0.15,41.69
+ORD-2023-1293,2023-03-01,Sarah Davis,LED Desk Lamp with Wireless Charger,Furniture,South,7,55.0,365.75,0.05,57.6
+ORD-2024-1796,2023-05-21,Rahul Verma,Stapler & Punch Kit,Office Supplies,North,3,18.0,48.6,0.1,15.79
+ORD-2024-1513,2023-09-12,John Smith,"4K Ultra HD Monitor 27""",Technology,West,3,349.0,994.65,0.05,206.24
+ORD-2024-1698,2023-01-26,Olivia White,Mesh Desktop Organizer,Office Supplies,South,8,25.0,200.0,0.0,74.0
+ORD-2023-1447,2024-03-05,Vikram Reddy,Samsung Galaxy S23,Technology,North,2,799.0,1278.4,0.2,28.18
+ORD-2024-1667,2024-03-16,Olivia White,ThinkPad Carbon X1,Technology,North,7,1150.0,6842.5,0.15,811.27
+ORD-2024-1719,04-16-2024,Robert Martinez,USB-C Multiport Hub,Technology,West,7,49.0,343.0,0.0,73.12
+ORD-2023-1353,2023-10-23,David Wilson,Heavy-Duty Paper Shredder,Office Supplies,West,2,89.0,142.4,0.2,33.16
+ORD-2024-1595,2023-04-20,Rohan Mehta,Gel Pen Set 12-Pack,Office Supplies,West,1,15.0,12.0,0.2,1.28
+ORD-2023-1361,2023-10-03,Michael Brown,Wooden Bookshelf 5-Tier,Furniture,North,2,180.0,306.0,0.15,10.35
+ORD-2024-1612,07/01/2024,Emily Taylor,Wooden Bookshelf 5-Tier,Furniture,West,3,180.0,513.0,0.05,54.9
+ORD-2023-1008,08-27-2023,Michael Brown,Mechanical Keyboard RGB,Technology,West,6,129.0,735.3,0.05,155.1
+ORD-2024-1717,2023-12-16,Olivia White,Wireless Laser Pointer,Office Supplies,North,3,29.0,82.65,0.05,27.0
+ORD-2023-1102,2023-07-22,Robert Martinez,Logitech MX Master 3,Technology,South,5,99.0,470.25,0.05,111.02
+ORD-2024-1651,01/03/2024,Manoj Kumar,Premium Notebook 3-Pack,Office Supplies,East,8,22.0,149.6,0.15,25.35
+ORD-2024-1519,2023-02-03,David Wilson,iPad Air,Technology,South,7,599.0,3983.35,0.05,793.01
+ORD-2024-1752,2023-05-20,Arjun Kapoor,Executive Leather Chair,Furniture,West,7,350.0,1960.0,0.2,13.76
+ORD-2023-1328,2023-07-25,Ananya Singh,Electric Standing Desk,Furniture,East,5,450.0,1912.5,0.15,-16.7
+ORD-2023-1003,2023-01-28,Deepak Chopra,Premium Notebook 3-Pack,Office Supplies,West,4,22.0,74.8,0.15,15.78
+ORD-2024-1632,2023-08-02,Kavita Rao,"4K Ultra HD Monitor 27""",Technology  ,  East ,3,349.0,1047.0,0.0,230.78
+ORD-2024-1558,2023-03-21,Michael Brown,Logitech MX Master 3,Technology,West,6,99.0,534.6,0.1,83.78
+ORD-2024-1605,2023-02-18,Deepak Chopra,AirPods Pro,Technology,North,4,249.0,896.4,0.1,141.31
+ORD-2024-1764,2023-02-03,Rohan Mehta,Samsung Galaxy S23,Technology,South,8,799.0,5433.2,0.15,437.02
+ORD-2024-1624,2023-10-06,Swati Iyer,LED Desk Lamp with Wireless Charger,Furniture,East,7,55.0,365.75,0.05,39.16
+ORD-2024-1625,2023-07-06,Neha Gupta,Premium Notebook 3-Pack,Office Supplies,West,8,22.0,158.4,0.1,38.01
+ORD-2024-1760,2023-09-24,James Anderson,Heavy-Duty Paper Shredder,Office Supplies,South,1,89.0,80.1,0.1,18.06
+ORD-2024-1520,2023-10-22,,Electric Standing Desk,Furniture,West,7,450.0,2835.0,0.1,134.61
+ORD-2024-1666,2024-05-07,James Anderson,Electric Standing Desk,Furniture,South,4,450.0,1710.0,0.05,295.68
+ORD-2024-1673,2024-06-23,Ananya Singh,Dell XPS 15,Technology,East,4,1250.0,4000.0,0.2,291.49
+ORD-2023-1448,10-20-2023,Emma Johnson,Executive Leather Chair,Furniture,East,7,350.0,2082.5,0.15,59.38
+ORD-2023-1336,06/06/2024,Robert Martinez,Heavy-Duty Paper Shredder,Office Supplies,South,8,89.0,640.8,0.1,180.18
+ORD-2023-1295,02-10-2023,Rahul Verma,Stapler & Punch Kit,Office Supplies,South,8,18.0,136.8,0.05,35.38
+ORD-2023-1376,19/11/2023,Sneha Nair,Mechanical Keyboard RGB,Technology,North,4,129.0,412.8,0.2,16.47
+ORD-2023-1080,2024-01-20,Deepak Chopra,Sony WH-1000XM5,Technology,North,4,399.0,1596.0,0.0,357.86
+ORD-2023-1149,14/09/2023,Neha Gupta,Gel Pen Set 12-Pack,Office Supplies,North,3,15.0,45.0,0.0,16.07
+ORD-2023-1357,31/07/2023,Priya Patel,Heavy-Duty Paper Shredder,Office Supplies,East,5,89.0,356.0,0.2,60.23
+ORD-2024-1496,09/05/2024,Kavita Rao,Wooden Bookshelf 5-Tier,Furniture,South,7,180.0,1134.0,0.1,89.58
+ORD-2023-1175,2023-04-19,Olivia White,Electric Standing Desk,Furniture,North,7,450.0,2835.0,0.1,190.06
+ORD-2023-1327,2023-12-04,Sarah Davis,Premium Notebook 3-Pack,Office Supplies,South,5,22.0,99.0,0.1,25.04
+ORD-2023-1301,2023-08-24,Sneha Nair,Steel Filing Cabinet,Furniture,East,5,140.0,595.0,0.15,-5.12
+ORD-2024-1523,27/06/2023,Neha Gupta,Electric Standing Desk,Furniture,North,7,450.0,2835.0,0.1,237.74
+ORD-2023-1193,19/06/2023,Priya Patel,Executive Leather Chair,Furniture,East,4,350.0,1190.0,0.15,29.61
+ORD-2023-1134,2023-08-13,Daniel Clark,Mechanical Keyboard RGB,Technology,South,2,129.0,258.0,0.0,65.86
+ORD-2024-1746,2024-04-02,Kavita Rao,USB-C Multiport Hub,Technology,East,5,49.0,208.25,0.15,17.78
+ORD-2024-1637,12-13-2023,Manoj Kumar,Premium Notebook 3-Pack,Office Supplies,North,1,22.0,19.8,0.1,4.9
+ORD-2024-1491,2023-02-21,Ananya Singh,Dell XPS 15,Technology,East,6,1250.0,6750.0,0.1,1094.4
+ORD-2023-1056,2023-12-05,Kavita Rao,iPad Air,Technology,East,5,599.0,2545.75,,311.2
+ORD-2023-1434,09/05/2024,Sarah Davis,Premium Notebook 3-Pack,Office Supplies,South,7,22.0,146.3,0.05,52.91
+ORD-2024-1616,2023-10-18,Vikram Reddy,Samsung Galaxy S23,Technology,South,1,799.0,799.0,0.0,181.31
+ORD-2024-1542,2024-06-08,Ananya Singh,Logitech MX Master 3,Technology,East,4,99.0,396.0,0.0,105.13
+ORD-2024-1773,2024-04-01,Swati Iyer,"4K Ultra HD Monitor 27""",Technology,East,4,349.0,1396.0,0.0,388.23
+ORD-2023-1381,2023-01-15,Priya Patel,Dell XPS 15,Technology,West,5,1250.0,5000.0,0.2,116.44
+ORD-2024-1604,2023-06-30,Vikram Reddy,Premium Notebook 3-Pack,Office Supplies,East,8,22.0,158.4,0.1,47.5
+ORD-2023-1312,2024-05-01,Rohan Mehta,Gel Pen Set 12-Pack,Office Supplies,East,1,15.0,14.25,0.05,3.58
+ORD-2024-1611,26/10/2023,Daniel Clark,Premium Notebook 3-Pack,Office Supplies,West,5,22.0,93.5,0.15,17.19
+ORD-2023-1061,19/08/2023,Vikram Reddy,MacBook Air M2,Technology,North,4,999.0,3396.6,0.15,324.07
+ORD-2024-1585,2023-07-25,Swati Iyer,Mesh Desktop Organizer,Office Supplies,North,2,25.0,40.0,0.2,8.29
+ORD-2023-1383,06-07-2024,Vikram Reddy,LED Desk Lamp with Wireless Charger,Furniture,East,7,55.0,308.0,0.2,-11.84
+ORD-2024-1598,05-04-2024,Priya Patel,Conference Room Table,Furniture,East,7,620.0,4123.0,0.05,579.06
+ORD-2024-1656,2023-01-17,Pooja Desai,MacBook Air M2,Technology,East,4,999.0,3796.2,0.05,645.52
+ORD-2023-1449,2024-04-29,Amit Joshi,Electric Standing Desk,Furniture,South,7,450.0,3150.0,0.0,593.26
+ORD-2024-1540,01-18-2024,Aarav Sharma,LED Desk Lamp with Wireless Charger,Furniture,South,2,55.0,110.0,0.0,24.16
+ORD-2024-1642,01/01/2023,Emily Taylor,Electric Standing Desk,Furniture,,1,450.0,360.0,0.2,-21.85
+ORD-2024-1776,2024-04-23,Rohan Mehta,Premium Notebook 3-Pack,Office Supplies,West,5,22.0,93.5,0.15,18.36
+ORD-2024-1678,2024-05-16,Ananya Singh,MacBook Air M2,Technology,East,6,999.0,5394.6,0.1,779.11
+ORD-2024-1657,23/01/2023,Deepak Chopra,Mechanical Keyboard RGB,Technology,South,2,129.0,258.0,0.0,62.74
+ORD-2023-1091,2023-09-15,Swati Iyer,Sony WH-1000XM5,Technology,East,2,399.0,638.4,0.2,3.14
+ORD-2023-1251,2023-09-06,Deepak Chopra,iPad Air,Technology,South,1,599.0,509.15,0.15,62.84
+ORD-2023-1182,2024-06-03,Olivia White,LED Desk Lamp with Wireless Charger,Furniture,North,8,55.0,352.0,0.2,-14.14
+ORD-2024-1579,2023-02-23,Arjun Kapoor,MacBook Air M2,Technology,North,3,999.0,2547.45,0.15,167.63
+ORD-2023-1443,2024-05-02,Michael Brown,Mesh Desktop Organizer,Office Supplies,North,3,25.0,75.0,0.0,21.46
+ORD-2023-1368,2024-01-16,Arjun Kapoor,AirPods Pro,Technology,North,7,249.0,1568.7,0.1,212.51
+ORD-2023-1159,2023-04-06,Swati Iyer,Dry Erase Whiteboard 36x24,Office Supplies,East,3,65.0,156.0,0.2,37.6
+ORD-2023-1070,2023-03-05,Sarah Davis,Electric Standing Desk,Furniture,North,7,450.0,2677.5,0.15,219.01
+ORD-2024-1652,20/06/2023,Robert Martinez,Electric Standing Desk,Furniture,East,3,450.0,1080.0,0.2,-80.83
+ORD-2023-1132,10-30-2023,Pooja Desai,MacBook Air M2,Technology,West,5,999.0,4995.0,0.0,1172.45
+ORD-2023-1045,2024-03-28,Sarah Davis,LED Desk Lamp with Wireless Charger,Furniture  ,  North ,2,55.0,110.0,,15.88
+ORD-2023-1071,2023-12-27,Michael Brown,Executive Leather Chair,Furniture,South,8,350.0,2660.0,0.05,414.86
+ORD-2024-1661,2023-12-09,Sarah Davis,Executive Leather Chair,Furniture,North,4,350.0,1120.0,,-76.01
+ORD-2023-1362,2023-10-12,Emma Johnson,Wooden Bookshelf 5-Tier,Furniture,West,6,180.0,864.0,0.2,21.39
+ORD-2023-1394,2023-11-15,Robert Martinez,Wooden Bookshelf 5-Tier,Furniture,North,6,180.0,1026.0,0.05,158.41
+ORD-2023-1255,2023-10-13,Sneha Nair,"4K Ultra HD Monitor 27""",Technology,East,4,349.0,1186.6,0.15,146.07
+ORD-2023-1136,2024-03-01,Vikram Reddy,LED Desk Lamp with Wireless Charger,Furniture,East,5,55.0,261.25,0.05,41.1
+ORD-2023-1083,2024-01-06,David Wilson,Mesh Desktop Organizer,Office Supplies,South,7,25.0,166.25,0.05,45.84
+ORD-2023-1166,2023-12-16,Pooja Desai,Dry Erase Whiteboard 36x24,Office Supplies,East,2,65.0,130.0,0.0,49.57
+ORD-2023-1165,2023-03-13,Arjun Kapoor,MacBook Air M2,Technology,North,4,999.0,3396.6,0.15,385.27
+ORD-2023-1029,2023-04-22,Rahul Verma,LED Desk Lamp with Wireless Charger,Furniture,West,3,55.0,140.25,0.15,9.13
+ORD-2024-1792,2023-03-15,Vikram Reddy,Steel Filing Cabinet,Furniture,North,8,140.0,896.0,0.2,18.3
+ORD-2023-1194,2024-04-04,Sneha Nair,"4K Ultra HD Monitor 27""",Technology,West,4,349.0,1256.4,0.1,175.53
+ORD-2023-1248,2023-11-03,Emily Taylor,Conference Room Table,Furniture,West,5,620.0,2635.0,0.15,14.69
+ORD-2024-1528,2023-08-07,John Smith,Ergonomic Office Chair,Furniture  ,  East ,4,289.0,924.8,0.2,-25.94
+ORD-2023-1333,06-02-2024,Deepak Chopra,Executive Leather Chair,Furniture,North,6,350.0,1680.0,0.2,-57.76
+ORD-2023-1137,05-08-2024,Pooja Desai,Dry Erase Whiteboard 36x24,Office Supplies,East,2,65.0,110.5,0.15,17.48
+ORD-2023-1423,26/05/2023,Emily Taylor,Ergonomic Office Chair,Furniture,North,6,289.0,1473.9,0.15,40.09
+ORD-2024-1654,16/03/2024,John Smith,Wireless Laser Pointer,Office Supplies,South,4,29.0,98.6,0.15,18.34
+ORD-2023-1141,2023-03-06,David Wilson,Mesh Desktop Organizer,Office Supplies,East,7,25.0,175.0,0.0,67.06
+ORD-2024-1480,2023-12-12,Kavita Rao,Samsung Galaxy S23,Technology,East,8,799.0,5752.8,0.1,766.98
+ORD-2023-1007,2024-01-06,Deepak Chopra,ThinkPad Carbon X1,Technology,North,4,1150.0,4140.0,0.1,465.44
+ORD-2024-1532,2023-07-17,Rohan Mehta,iPad Air,Technology,South,1,599.0,599.0,0.0,157.62
+ORD-2023-1396,2023-09-09,Sarah Davis,MacBook Air M2,Technology,South,6,999.0,5994.0,0.0,1222.3
+ORD-2024-1729,2023-08-03,Rahul Verma,"4K Ultra HD Monitor 27""",Technology,East,6,349.0,1779.9,0.15,159.79
+ORD-2023-1074,2024-04-17,Amit Joshi,Electric Standing Desk,Furniture,East,4,450.0,1530.0,0.15,78.93
+ORD-2024-1772,2023-01-11,Rohan Mehta,MacBook Air M2,Technology,West,2,999.0,1598.4,0.2,143.23
+ORD-2024-1739,2023-04-20,Arjun Kapoor,ThinkPad Carbon X1,Technology  ,  East ,8,1150.0,7820.0,0.15,761.37
+ORD-2024-1751,2023-05-09,Rohan Mehta,Premium Notebook 3-Pack,Office Supplies,North,3,22.0,56.1,0.15,11.29
+ORD-2023-1146,07-14-2023,David Wilson,ThinkPad Carbon X1,Technology,South,1,1150.0,1150.0,0.0,249.61
+ORD-2024-1465,13/06/2024,Priya Patel,Wireless Laser Pointer,Office Supplies  ,  West ,6,29.0,165.3,0.05,45.84
+ORD-2023-1235,2023-03-03,Sarah Davis,Steel Filing Cabinet,Furniture,West,4,140.0,504.0,0.1,40.02
+ORD-2023-1221,2023-04-27,Ananya Singh,Steel Filing Cabinet,Furniture,West,2,140.0,252.0,0.1,16.24
+ORD-2024-1747,12-19-2023,Olivia White,MacBook Air M2,Technology,West,3,999.0,2697.3,0.1,524.5
+ORD-2023-1324,2023-11-05,Vikram Reddy,ThinkPad Carbon X1,Technology,South,7,1150.0,7245.0,0.1,1177.81
+ORD-2023-1133,02-20-2023,Swati Iyer,Steel Filing Cabinet,Furniture,East,4,140.0,448.0,0.2,-24.73
+ORD-2023-1382,09/03/2024,Rohan Mehta,Premium Notebook 3-Pack,Office Supplies,South,5,22.0,110.0,0.0,39.91
+ORD-2023-1266,2024-06-20,Vikram Reddy,Conference Room Table,Furniture,West,5,620.0,2945.0,0.05,326.41
+ORD-2023-1444,2024-04-04,Ananya Singh,Sony WH-1000XM5,Technology,South,3,399.0,1197.0,0.0,294.62
+ORD-2024-1765,2023-09-01,Swati Iyer,Premium Notebook 3-Pack,Office Supplies,South,4,22.0,70.4,0.2,9.85
+ORD-2023-1433,2024-01-20,Rohan Mehta,LED Desk Lamp with Wireless Charger,Furniture,North,6,55.0,264.0,0.2,-19.41
+ORD-2023-1042,2023-05-18,Neha Gupta,Dry Erase Whiteboard 36x24,Office Supplies,South,5,65.0,292.5,0.1,73.91
+ORD-2024-1502,17/02/2024,Rohan Mehta,Wooden Bookshelf 5-Tier,Furniture,West,8,180.0,1440.0,0.0,218.12
+ORD-2023-1109,2023-10-23,Michael Brown,Stapler & Punch Kit,Office Supplies,North,8,18.0,144.0,0.0,52.17
+ORD-2023-1351,2024-06-01,Sarah Davis,Gel Pen Set 12-Pack,Office Supplies,West,7,15.0,89.25,0.15,20.09
+ORD-2023-1057,2023-10-30,Rahul Verma,Executive Leather Chair,Furniture,West,3,350.0,840.0,0.2,-26.8
+ORD-2024-1457,2024-05-15,Ananya Singh,Steel Filing Cabinet,Furniture,East,6,140.0,798.0,0.05,86.51
+ORD-2023-1287,2023-08-28,Manoj Kumar,Stapler & Punch Kit,Office Supplies,North,3,18.0,43.2,0.2,4.36
+ORD-2024-1735,2024-04-24,Pooja Desai,Gel Pen Set 12-Pack,Office Supplies,West,8,15.0,114.0,0.05,28.36
+ORD-2023-1025,2023-03-02,Priya Patel,USB-C Multiport Hub,Technology,North,4,49.0,176.4,0.1,24.79
+ORD-2023-1291,26/01/2024,John Smith,Mesh Desktop Organizer,Office Supplies,West,7,25.0,166.25,0.05,54.95
+ORD-2023-1358,11-28-2023,Pooja Desai,"4K Ultra HD Monitor 27""",Technology,East,2,349.0,663.1,0.05,106.78
+ORD-2023-1363,06/04/2023,David Wilson,Premium Notebook 3-Pack,Office Supplies,East,2,22.0,35.2,0.2,6.7
+ORD-2023-1052,2023-10-13,Emily Taylor,Electric Standing Desk,Furniture,East,1,450.0,450.0,0.0,67.43
+ORD-2024-1548,12-06-2023,David Wilson,Wooden Bookshelf 5-Tier,Furniture,East,5,180.0,765.0,0.15,23.28
+ORD-2024-1749,2024-02-08,Deepak Chopra,Electric Standing Desk,Furniture,West,7,450.0,2677.5,0.15,83.13
+ORD-2023-1265,2023-01-10,Daniel Clark,iPad Air,Technology,East,5,599.0,2545.75,0.15,152.36
+ORD-2023-1410,2024-04-17,Olivia White,Executive Leather Chair,Furniture,West,8,350.0,2800.0,0.0,530.27
+ORD-2024-1508,2024-02-24,Daniel Clark,Sony WH-1000XM5,Technology,South,2,399.0,678.3,0.15,89.98
+ORD-2023-1352,2023-03-26,Manoj Kumar,Logitech MX Master 3,Technology,East,1,99.0,89.1,0.1,16.04
+ORD-2023-1292,08/07/2023,James Anderson,Logitech MX Master 3,Technology  ,  South ,5,99.0,470.25,0.05,81.94
+ORD-2023-1019,06-27-2024,Daniel Clark,USB-C Multiport Hub,Technology,West,1,49.0,49.0,0.0,10.08
+ORD-2024-1706,2023-08-01,Vikram Reddy,Dell XPS 15,Technology,East,1,1250.0,1187.5,0.05,202.12
+ORD-2023-1330,2023-07-04,Robert Martinez,MacBook Air M2,Technology,West,4,999.0,3396.6,0.15,264.48
+ORD-2023-1084,2023-10-04,Robert Martinez,Stapler & Punch Kit,Office Supplies,West,8,18.0,122.4,0.15,21.73
+ORD-2023-1062,2023-03-16,Arjun Kapoor,Heavy-Duty Paper Shredder,Office Supplies,South,7,89.0,529.55,0.15,125.87
+ORD-2024-1494,2024-02-15,David Wilson,Mechanical Keyboard RGB,Technology,West,8,129.0,877.2,0.15,80.59
+ORD-2024-1659,2023-04-05,Olivia White,Sony WH-1000XM5,Technology,North,6,399.0,2034.9,0.15,278.11
+ORD-2024-1536,2024-02-19,Aarav Sharma,Electric Standing Desk,Furniture,North,1,450.0,360.0,0.2,6.72
+ORD-2024-1454,2023-03-09,Emily Taylor,Electric Standing Desk,Furniture,South,1,450.0,427.5,0.05,69.56
+ORD-2023-1183,2023-11-26,Emily Taylor,Samsung Galaxy S23,Technology,North,8,799.0,6392.0,0.0,1375.06
+ORD-2023-1320,01-06-2023,David Wilson,Ergonomic Office Chair,Furniture,East,2,289.0,549.1,0.05,94.22
+ORD-2024-1507,2023-10-26,Emma Johnson,Mesh Desktop Organizer,Office Supplies,North,1,25.0,23.75,0.05,7.27
+ORD-2023-1224,10-25-2023,Ananya Singh,Mesh Desktop Organizer,Office Supplies,South,6,25.0,120.0,0.2,25.96
+ORD-2024-1777,2023-11-28,Manoj Kumar,ThinkPad Carbon X1,Technology  ,  East ,1,1150.0,977.5,0.15,113.75
+ORD-2024-1474,2023-07-01,Priya Patel,MacBook Air M2,Technology,West,5,999.0,4745.25,0.05,844.68
+ORD-2024-1658,2023-06-09,Emma Johnson,Heavy-Duty Paper Shredder,Office Supplies,South,4,89.0,320.4,0.1,72.15
+ORD-2023-1335,02-14-2024,John Smith,Executive Leather Chair,Furniture,North,1,350.0,350.0,0.0,69.76
+ORD-2024-1583,2024-06-06,Sneha Nair,Wireless Laser Pointer,Office Supplies,South,1,29.0,26.1,0.1,7.87
+ORD-2024-1500,2023-02-25,Ananya Singh,Conference Room Table,Furniture,West,8,620.0,4712.0,0.05,813.49
+ORD-2023-1177,2023-06-01,Vikram Reddy,Mechanical Keyboard RGB,Technology,South,3,129.0,309.6,0.2,26.23
+ORD-2024-1676,04-12-2023,James Anderson,Wireless Laser Pointer,Office Supplies,,3,29.0,82.65,0.05,25.22
+ORD-2024-1539,2023-08-14,Michael Brown,LED Desk Lamp with Wireless Charger,Furniture,East,3,55.0,148.5,0.1,10.86
+ORD-2023-1164,11-13-2023,Emma Johnson,MacBook Air M2,Technology,South,3,999.0,2397.6,,82.16
+ORD-2023-1249,2024-01-13,Neha Gupta,Executive Leather Chair,Furniture,East,1,350.0,280.0,0.2,-6.29
+ORD-2024-1526,16/03/2023,John Smith,Conference Room Table,Furniture,South,3,620.0,1488.0,0.2,27.06
+ORD-2024-1722,2023-06-19,Michael Brown,AirPods Pro,Technology,North,5,249.0,1120.5,0.1,153.4
+ORD-2023-1075,2024-01-24,Sarah Davis,Mechanical Keyboard RGB,Technology,North,8,129.0,1032.0,0.0,227.12
+ORD-2024-1478,2023-09-12,Emma Johnson,"4K Ultra HD Monitor 27""",Technology,South,2,349.0,593.3,0.15,62.63
+ORD-2023-1412,2023-02-05,Daniel Clark,Logitech MX Master 3,Technology,East,8,99.0,673.2,0.15,47.03
+ORD-2023-1105,18/03/2024,Daniel Clark,Mechanical Keyboard RGB,Technology,North,2,129.0,245.1,0.05,39.49
+ORD-2023-1115,2023-10-07,James Anderson,Steel Filing Cabinet,Furniture,South,8,140.0,896.0,0.2,9.44
+ORD-2023-1307,2024-06-20,Rahul Verma,Wireless Laser Pointer,Office Supplies,East,6,29.0,156.6,0.1,35.6
+ORD-2023-1093,2023-10-31,Ananya Singh,"4K Ultra HD Monitor 27""",Technology,North,3,349.0,942.3,0.1,184.65
+ORD-2023-1418,27/02/2023,Sneha Nair,Heavy-Duty Paper Shredder,Office Supplies,West,6,89.0,507.3,0.05,175.62
+ORD-2023-1090,2024-06-27,Swati Iyer,LED Desk Lamp with Wireless Charger,Furniture,East,6,55.0,280.5,0.15,15.95
+ORD-2023-1437,2023-03-31,Kavita Rao,Premium Notebook 3-Pack,Office Supplies,West,4,22.0,88.0,0.0,34.93
+ORD-2024-1750,2023-06-27,Rahul Verma,LED Desk Lamp with Wireless Charger,Furniture,West,6,55.0,280.5,0.15,19.03
+ORD-2024-1759,2024-03-07,Pooja Desai,"4K Ultra HD Monitor 27""",Technology  ,  South ,1,349.0,279.2,0.2,7.0
+ORD-2024-1495,2023-06-20,Deepak Chopra,Dry Erase Whiteboard 36x24,Office Supplies,North,3,65.0,195.0,0.0,68.26
+ORD-2024-1681,31/03/2023,Emily Taylor,Gel Pen Set 12-Pack,Office Supplies,South,7,15.0,99.75,0.05,29.53
+ORD-2024-1501,2024-05-18,John Smith,Mechanical Keyboard RGB,Technology,North,4,129.0,412.8,0.2,14.72
+ORD-2023-1012,2023-11-19,James Anderson,Electric Standing Desk,Furniture,West,3,450.0,1215.0,0.1,146.92
+ORD-2024-1498,2023-11-18,Kavita Rao,Conference Room Table,Furniture,South,6,620.0,2976.0,0.2,-81.28
+ORD-2023-1044,09/03/2024,Priya Patel,MacBook Air M2,Technology,East,3,999.0,2697.3,0.1,500.72
+ORD-2023-1043,2023-12-18,Arjun Kapoor,Mechanical Keyboard RGB,Technology,West,5,129.0,645.0,0.0,175.84
+ORD-2023-1168,2023-10-07,Emily Taylor,iPad Air,Technology,East,7,599.0,4193.0,0.0,1079.03
+ORD-2024-1715,2024-02-28,Emma Johnson,LED Desk Lamp with Wireless Charger,Furniture,South,1,55.0,52.25,0.05,6.31
+ORD-2024-1623,04/02/2024,Sneha Nair,Mechanical Keyboard RGB,Technology,North,7,129.0,857.85,0.05,170.37
+ORD-2024-1740,2023-09-02,Robert Martinez,AirPods Pro,Technology,West,7,249.0,1743.0,0.0,440.53
+ORD-2023-1179,2024-04-04,Olivia White,Premium Notebook 3-Pack,Office Supplies,East,6,22.0,125.4,0.05,39.23
+ORD-2024-1538,16/10/2023,David Wilson,Electric Standing Desk,Furniture,West,1,450.0,382.5,0.15,25.87
+ORD-2024-1774,2023-04-05,Daniel Clark,Gel Pen Set 12-Pack,Office Supplies,South,2,15.0,30.0,0.0,11.69
+ORD-2023-1178,2023-03-19,Manoj Kumar,Premium Notebook 3-Pack,Office Supplies,West,8,22.0,140.8,0.2,19.15
+ORD-2024-1782,01-01-2023,Kavita Rao,Electric Standing Desk,Furniture,East,3,450.0,1215.0,0.1,64.3
+ORD-2024-1568,2024-05-31,Vikram Reddy,Wireless Laser Pointer,Office Supplies,North,3,29.0,73.95,0.15,12.34
+ORD-2023-1258,2023-03-22,David Wilson,Premium Notebook 3-Pack,Office Supplies  ,  East ,8,22.0,167.2,0.05,57.33
+ORD-2023-1366,2024-04-15,Ananya Singh,Wooden Bookshelf 5-Tier,Furniture,West,1,180.0,153.0,0.15,9.69
+ORD-2024-1479,2023-11-10,Priya Patel,"4K Ultra HD Monitor 27""",Technology,East,8,349.0,2233.6,0.2,90.15
+ORD-2023-1016,2023-01-12,Neha Gupta,Gel Pen Set 12-Pack,Office Supplies,East,6,15.0,90.0,0.0,32.83
+ORD-2023-1004,07/01/2023,Ananya Singh,Mesh Desktop Organizer,Office Supplies,West,6,25.0,135.0,0.1,42.2
+ORD-2023-1426,01-02-2023,Olivia White,Electric Standing Desk,Furniture,North,3,450.0,1080.0,0.2,-7.37
+ORD-2023-1257,01-24-2024,Michael Brown,Ergonomic Office Chair,Furniture,South,5,289.0,1445.0,0.0,284.65
+ORD-2023-1378,13/07/2023,Pooja Desai,Premium Notebook 3-Pack,Office Supplies,North,4,22.0,74.8,0.15,17.93
+ORD-2023-1397,02/01/2023,Michael Brown,Dry Erase Whiteboard 36x24,Office Supplies,East,2,65.0,123.5,0.05,37.23
+ORD-2023-1345,2023-09-26,James Anderson,Conference Room Table,Furniture,East,7,620.0,3472.0,0.2,-49.49
+ORD-2024-1670,2023-03-29,Priya Patel,Logitech MX Master 3,Technology,South,5,99.0,495.0,0.0,125.01
+ORD-2023-1424,2023-12-11,Vikram Reddy,AirPods Pro,Technology,West,8,249.0,1792.8,0.1,330.8
+ORD-2024-1643,2023-09-02,Rohan Mehta,Gel Pen Set 12-Pack,Office Supplies,West,4,15.0,48.0,0.2,7.08
+ORD-2024-1753,2024-06-05,David Wilson,Electric Standing Desk,Furniture,East,4,450.0,1710.0,0.05,244.83
+ORD-2023-1325,10/05/2024,Emma Johnson,Mechanical Keyboard RGB,Technology,South,8,129.0,825.6,0.2,31.65
+ORD-2024-1591,2024-06-12,Deepak Chopra,Mechanical Keyboard RGB,Technology,South,5,129.0,645.0,0.0,160.02
+ORD-2023-1010,2023-06-17,Amit Joshi,Premium Notebook 3-Pack,Office Supplies,South,6,22.0,132.0,0.0,49.17
+ORD-2023-1250,22/08/2023,Olivia White,Steel Filing Cabinet,Furniture,South,7,140.0,931.0,0.05,102.18
+ORD-2023-1023,2024-01-18,Emily Taylor,Wooden Bookshelf 5-Tier,Furniture,North,4,180.0,684.0,0.05,118.71
+ORD-2023-1222,2024-04-01,Daniel Clark,"4K Ultra HD Monitor 27""",Technology,West,4,349.0,1396.0,0.0,375.72
+ORD-2024-1555,2023-09-28,Priya Patel,Gel Pen Set 12-Pack,Office Supplies,South,6,15.0,76.5,0.15,17.43
+ORD-2024-1728,2023-04-16,Kavita Rao,Dry Erase Whiteboard 36x24,Office Supplies,East,1,65.0,52.0,0.2,7.08
+ORD-2024-1800,2023-07-31,Amit Joshi,Conference Room Table,Furniture,West,7,620.0,4123.0,0.05,412.1
+ORD-2024-1685,30/05/2023,Manoj Kumar,USB-C Multiport Hub,Technology,West,7,49.0,308.7,0.1,49.58
+ORD-2023-1341,06-18-2023,Swati Iyer,Logitech MX Master 3,Technology,South,3,99.0,267.3,0.1,40.16
+ORD-2024-1778,2023-03-03,Amit Joshi,AirPods Pro,Technology,West,2,249.0,423.3,0.15,25.72
+ORD-2023-1204,2024-05-26,Aarav Sharma,Premium Notebook 3-Pack,Office Supplies,South,3,22.0,59.4,0.1,16.4
+ORD-2023-1238,2023-05-25,Pooja Desai,Electric Standing Desk,Furniture,West,4,450.0,1710.0,0.05,188.86
+ORD-2023-1094,2023-02-25,Deepak Chopra,Samsung Galaxy S23,Technology,West,2,799.0,1598.0,0.0,374.05
+ORD-2024-1669,2024-03-28,David Wilson,Dell XPS 15,Technology,South,4,1250.0,4500.0,0.1,837.6
+ORD-2023-1369,2023-08-28,Rohan Mehta,Mesh Desktop Organizer,Office Supplies,North,1,25.0,23.75,0.05,7.32
+ORD-2024-1522,21/07/2023,Rahul Verma,"4K Ultra HD Monitor 27""",Technology,West,3,349.0,1047.0,0.0,277.5
+ORD-2023-1285,2023-04-26,Kavita Rao,Executive Leather Chair,Furniture,North,4,350.0,1330.0,0.05,230.46
+ORD-2023-1185,2024-03-25,Daniel Clark,AirPods Pro,Technology,East,6,249.0,1344.6,0.1,222.62
+ORD-2024-1660,2023-04-08,Pooja Desai,Dell XPS 15,Technology,West,2,1250.0,2500.0,0.0,515.63
+ORD-2024-1589,07/09/2023,Manoj Kumar,Wooden Bookshelf 5-Tier,Furniture,West,1,180.0,153.0,0.15,10.93
+ORD-2023-1154,2023-03-24,Vikram Reddy,ThinkPad Carbon X1,Technology,South,5,1150.0,4600.0,0.2,168.78
+ORD-2023-1076,02-23-2023,Emma Johnson,Logitech MX Master 3,Technology,North,1,99.0,99.0,0.0,20.2
+ORD-2024-1537,16/02/2023,Rohan Mehta,Ergonomic Office Chair,Furniture,North,5,289.0,1300.5,0.1,103.28
+ORD-2024-1795,2024-03-12,Swati Iyer,Gel Pen Set 12-Pack,Office Supplies,West,6,15.0,90.0,0.0,25.46
+ORD-2023-1278,2024-04-18,Pooja Desai,Dry Erase Whiteboard 36x24,Office Supplies,North,7,65.0,409.5,0.1,91.92
+ORD-2023-1069,06/06/2023,Rohan Mehta,Executive Leather Chair,Furniture,West,6,350.0,1680.0,0.2,-36.28
+ORD-2024-1714,2023-01-02,David Wilson,Premium Notebook 3-Pack,Office Supplies,North,4,22.0,70.4,0.2,7.05
+ORD-2023-1189,2023-03-28,Michael Brown,Premium Notebook 3-Pack,Office Supplies,East,3,22.0,52.8,0.2,12.46
+ORD-2023-1272,2023-06-13,Emily Taylor,Mesh Desktop Organizer,Office Supplies,East,2,25.0,45.0,0.1,12.79
+ORD-2023-1237,2024-06-11,John Smith,Logitech MX Master 3,Technology,West,2,99.0,178.2,0.1,28.52
+ORD-2023-1089,2023-01-18,Sneha Nair,Electric Standing Desk,Furniture,South,5,450.0,1800.0,0.2,-21.42
+ORD-2024-1693,2024-06-21,Deepak Chopra,Dell XPS 15,Technology,North,8,1250.0,8500.0,0.15,638.39
+ORD-2023-1118,05-16-2024,David Wilson,LED Desk Lamp with Wireless Charger,Furniture,West,6,55.0,297.0,0.1,25.03
+ORD-2023-1126,11-03-2023,Priya Patel,USB-C Multiport Hub,Technology,North,5,49.0,220.5,0.1,36.75
+ORD-2024-1671,2023-04-24,James Anderson,MacBook Air M2,Technology,East,4,999.0,3196.8,0.2,251.95
+ORD-2023-1290,2023-06-29,Sarah Davis,LED Desk Lamp with Wireless Charger,Furniture,West,1,55.0,49.5,0.1,2.46
+ORD-2023-1239,2023-11-17,Ananya Singh,Steel Filing Cabinet,Furniture,West,8,140.0,1008.0,0.1,89.84
+ORD-2023-1001,2023-04-25,Amit Joshi,Logitech MX Master 3,Technology,South,3,99.0,297.0,0.0,67.08
+ORD-2024-1512,2023-05-12,Kavita Rao,Wireless Laser Pointer,Office Supplies,East,7,29.0,172.55,0.15,26.89
+ORD-2024-1452,29/03/2024,John Smith,Mechanical Keyboard RGB,Technology,West,2,129.0,245.1,0.05,50.22
+ORD-2024-1712,2023-10-22,John Smith,Mechanical Keyboard RGB,Technology,East,3,129.0,309.6,0.2,13.54
+ORD-2024-1629,2023-02-02,Manoj Kumar,Samsung Galaxy S23,Technology,North,5,799.0,3395.75,0.15,496.54
+ORD-2023-1279,2023-08-12,Priya Patel,Executive Leather Chair,Furniture,East,2,350.0,560.0,0.2,-41.67
+ORD-2024-1634,08-12-2023,,Premium Notebook 3-Pack,Office Supplies,West,6,22.0,132.0,0.0,50.15
+ORD-2023-1117,2024-02-29,Emily Taylor,Mechanical Keyboard RGB,Technology,North,5,129.0,580.5,0.1,72.89
+ORD-2023-1229,26/02/2023,Emily Taylor,Samsung Galaxy S23,Technology,East,3,799.0,2277.15,0.05,489.44
+ORD-2024-1674,2024-04-21,Aarav Sharma,ThinkPad Carbon X1,Technology,West,5,1150.0,5175.0,0.1,637.43
+ORD-2023-1427,2023-08-15,Neha Gupta,Steel Filing Cabinet,Furniture,South,6,140.0,840.0,0.0,168.81
+ORD-2023-1441,04/06/2023,Kavita Rao,iPad Air,Technology,North,6,599.0,2875.2,0.2,168.49
+ORD-2023-1275,2024-01-06,Olivia White,iPad Air,Technology,North,4,599.0,1916.8,0.2,88.81
+ORD-2023-1319,25/01/2024,Arjun Kapoor,Samsung Galaxy S23,Technology,West,6,799.0,4314.6,0.1,822.06
+ORD-2024-1559,05-08-2024,Aarav Sharma,Conference Room Table,Furniture,South,8,620.0,4712.0,0.05,751.94
+ORD-2023-1145,08-30-2023,Neha Gupta,Gel Pen Set 12-Pack,Office Supplies,East,6,15.0,90.0,0.0,31.7
+ORD-2024-1586,2023-12-23,Amit Joshi,Logitech MX Master 3,Technology,South,8,99.0,673.2,0.15,66.53
+ORD-2024-1515,2023-10-25,Kavita Rao,Samsung Galaxy S23,Technology,South,6,799.0,4794.0,0.0,1050.55
+ORD-2024-1742,21/03/2023,Deepak Chopra,Heavy-Duty Paper Shredder,Office Supplies,West,2,89.0,142.4,0.2,22.87
+ORD-2024-1594,09-05-2023,Rahul Verma,Logitech MX Master 3,Technology,South,4,99.0,316.8,0.2,20.4
+ORD-2023-1370,2023-05-16,Emily Taylor,Gel Pen Set 12-Pack,Office Supplies,West,1,15.0,15.0,0.0,4.75
+ORD-2023-1269,2023-03-30,Neha Gupta,AirPods Pro,Technology,South,8,249.0,1792.8,0.1,209.43
+ORD-2024-1576,2024-02-28,Robert Martinez,Steel Filing Cabinet,Furniture,South,6,140.0,672.0,0.2,-20.49
+ORD-2023-1308,2023-03-22,Michael Brown,Wooden Bookshelf 5-Tier,Furniture,South,4,180.0,648.0,0.1,47.0
+ORD-2023-1311,2023-12-06,Neha Gupta,Conference Room Table,Furniture,North,4,620.0,2356.0,0.05,242.79
+ORD-2024-1458,22/09/2023,Deepak Chopra,ThinkPad Carbon X1,Technology,East,1,1150.0,977.5,0.15,144.93
+ORD-2023-1047,01-09-2024,Priya Patel,Ergonomic Office Chair,Furniture,South,4,289.0,1156.0,0.0,221.61
+ORD-2023-1350,02-24-2023,Aarav Sharma,Steel Filing Cabinet,Furniture,South,4,140.0,476.0,0.15,-3.98
+ORD-2023-1372,02/04/2023,Neha Gupta,iPad Air,Technology,East,6,599.0,3234.6,0.1,607.49
+ORD-2024-1531,2024-01-19,Emily Taylor,Wooden Bookshelf 5-Tier,Furniture,West,1,180.0,162.0,0.1,8.66
+ORD-2023-1262,2023-06-11,James Anderson,Steel Filing Cabinet,Furniture,South,5,140.0,630.0,0.1,68.02
+ORD-2023-1196,05-22-2023,Priya Patel,Premium Notebook 3-Pack,Office Supplies,West,6,22.0,105.6,0.2,11.6
+ORD-2024-1572,2023-04-11,Amit Joshi,Steel Filing Cabinet,Furniture,South,2,140.0,252.0,0.1,20.2
+ORD-2024-1683,07-27-2023,Pooja Desai,Mesh Desktop Organizer,Office Supplies,South,7,25.0,166.25,0.05,47.47
+ORD-2023-1108,2024-02-23,Kavita Rao,iPad Air,Technology,South,6,599.0,3054.9,0.15,267.77
+ORD-2023-1060,2023-10-18,Arjun Kapoor,Wireless Laser Pointer,Office Supplies,East,2,29.0,55.1,0.05,15.62
+ORD-2024-1630,2024-04-26,Amit Joshi,Electric Standing Desk,Furniture,North,2,450.0,855.0,0.05,125.29
+ORD-2023-1446,2024-02-11,Amit Joshi,Conference Room Table,Furniture  ,  West ,1,620.0,496.0,0.2,-16.74
+ORD-2023-1101,2023-02-03,Deepak Chopra,"4K Ultra HD Monitor 27""",Technology,West,2,349.0,663.1,0.05,108.95
+ORD-2024-1484,2023-04-29,Michael Brown,iPad Air,Technology,East,8,599.0,4552.4,0.05,1023.38
+ORD-2024-1733,2023-02-25,Michael Brown,AirPods Pro,Technology,West,6,249.0,1344.6,0.1,229.2
+ORD-2024-1592,2023-12-17,Ananya Singh,Steel Filing Cabinet,Furniture,East,6,140.0,798.0,0.05,82.7
+ORD-2024-1704,2024-05-25,Aarav Sharma,Wireless Laser Pointer,Office Supplies,West,4,29.0,110.2,0.05,32.4
+ORD-2023-1180,2024-04-25,Pooja Desai,Mechanical Keyboard RGB,Technology,North,6,129.0,619.2,0.2,57.33
+ORD-2023-1305,2024-05-09,Aarav Sharma,MacBook Air M2,Technology,West,1,999.0,999.0,0.0,237.41
+ORD-2023-1005,2023-12-11,Michael Brown,iPad Air,Technology,East,6,599.0,2875.2,0.2,211.46
+ORD-2024-1483,19/09/2023,Daniel Clark,Dell XPS 15,Technology,North,2,1250.0,2500.0,0.0,690.35
+ORD-2024-1786,2023-12-15,David Wilson,Stapler & Punch Kit,Office Supplies,East,4,18.0,68.4,0.05,20.41
+ORD-2023-1150,2023-09-01,Aarav Sharma,AirPods Pro,Technology,East,1,249.0,236.55,0.05,42.49
+ORD-2023-1125,10-22-2023,Swati Iyer,ThinkPad Carbon X1,Technology,West,2,1150.0,2300.0,0.0,562.36
+ORD-2024-1645,2023-03-10,Vikram Reddy,AirPods Pro,Technology,North,4,249.0,996.0,0.0,240.21
+ORD-2024-1709,2023-02-06,Pooja Desai,USB-C Multiport Hub,Technology,East,7,49.0,343.0,0.0,75.23
+ORD-2023-1186,2023-12-13,Priya Patel,Premium Notebook 3-Pack,Office Supplies,East,2,22.0,39.6,0.1,12.7
+ORD-2024-1549,2023-06-29,Rohan Mehta,Mechanical Keyboard RGB,Technology,South,4,129.0,464.4,0.1,62.6
+ORD-2023-1051,2023-08-22,Kavita Rao,Sony WH-1000XM5,Technology,West,6,399.0,2154.6,0.1,265.38
+ORD-2024-1781,2023-03-14,Amit Joshi,Stapler & Punch Kit,Office Supplies,West,1,18.0,15.3,0.15,4.18
+ORD-2023-1185,2024-03-25,Daniel Clark,AirPods Pro,Technology  ,  East ,6,249.0,1344.6,0.1,222.62
+ORD-2024-1514,2024-06-08,Deepak Chopra,LED Desk Lamp with Wireless Charger,Furniture,East,4,55.0,209.0,0.05,33.71
+ORD-2023-1322,2023-04-06,John Smith,Electric Standing Desk,Furniture,North,5,450.0,1912.5,0.15,87.7
+ORD-2023-1354,2024-01-11,Manoj Kumar,Dell XPS 15,Technology,West,4,1250.0,4250.0,0.15,609.03
+ORD-2024-1755,02-04-2023,Olivia White,Steel Filing Cabinet,Furniture,East,2,140.0,224.0,0.2,-5.19
+ORD-2023-1143,2024-04-09,Swati Iyer,Mesh Desktop Organizer,Office Supplies,West,3,25.0,63.75,0.15,12.86
+ORD-2023-1371,05-04-2023,,Mesh Desktop Organizer,Office Supplies,South,8,25.0,200.0,0.0,74.51
+ORD-2023-1142,2023-02-08,James Anderson,iPad Air,Technology,North,4,599.0,1916.8,0.2,165.68
+ORD-2023-1400,2024-02-08,Olivia White,Dell XPS 15,Technology,West,3,1250.0,3562.5,0.05,775.0
+ORD-2023-1264,06-30-2023,Priya Patel,Electric Standing Desk,Furniture,West,3,450.0,1215.0,0.1,67.31
+ORD-2023-1321,2024-03-17,Robert Martinez,Conference Room Table,Furniture,West,2,620.0,1240.0,0.0,263.91
+ORD-2023-1020,2023-11-11,Sneha Nair,Heavy-Duty Paper Shredder,Office Supplies,North,2,89.0,151.3,0.15,27.07
+ORD-2023-1173,04-15-2024,John Smith,Heavy-Duty Paper Shredder,Office Supplies,West,7,89.0,529.55,0.15,134.11
+ORD-2024-1799,2023-03-24,Ananya Singh,ThinkPad Carbon X1,Technology,East,7,1150.0,6842.5,0.15,600.62
+ORD-2023-1313,2023-11-19,Rahul Verma,Heavy-Duty Paper Shredder,Office Supplies,South,7,89.0,623.0,0.0,226.83
+ORD-2023-1391,2024-01-08,Vikram Reddy,AirPods Pro,Technology,North,7,249.0,1655.85,0.05,356.02
+ORD-2024-1761,2023-01-28,Rohan Mehta,Samsung Galaxy S23,Technology,North,5,799.0,3595.5,0.1,676.74
+ORD-2023-1013,27/09/2023,Sarah Davis,Heavy-Duty Paper Shredder,Office Supplies,West,6,89.0,507.3,0.05,122.99
+ORD-2023-1408,2023-08-16,Michael Brown,Ergonomic Office Chair,Furniture,North,5,289.0,1445.0,0.0,315.38
+ORD-2023-1409,2023-03-08,Arjun Kapoor,Wooden Bookshelf 5-Tier,Furniture,South,2,180.0,324.0,0.1,39.67
+ORD-2023-1306,2023-10-09,Pooja Desai,MacBook Air M2,Technology,West,3,999.0,2997.0,0.0,619.05
+ORD-2023-1355,2023-09-11,Priya Patel,Wooden Bookshelf 5-Tier,Furniture,East,6,180.0,1080.0,0.0,199.66
+ORD-2023-1026,2023-08-08,Swati Iyer,Heavy-Duty Paper Shredder,Office Supplies,West,4,89.0,302.6,0.15,54.5
+ORD-2024-1606,2023-04-09,John Smith,Mechanical Keyboard RGB,Technology,East,6,129.0,619.2,0.2,27.4
+ORD-2023-1170,2023-07-29,Rahul Verma,Stapler & Punch Kit,Office Supplies,South,5,18.0,81.0,0.1,23.46
+ORD-2023-1039,2023-03-16,Daniel Clark,Heavy-Duty Paper Shredder,Office Supplies,North,2,89.0,142.4,0.2,31.05
+ORD-2023-1176,2023-08-15,Ananya Singh,ThinkPad Carbon X1,Technology,North,4,1150.0,4140.0,0.1,698.8
+ORD-2023-1246,2024-05-27,Priya Patel,Samsung Galaxy S23,Technology,East,8,799.0,5113.6,0.2,277.67
+ORD-2023-1299,25/04/2024,John Smith,Sony WH-1000XM5,Technology,East,6,399.0,2034.9,0.15,302.46
+ORD-2024-1679,08-30-2023,Emily Taylor,Mechanical Keyboard RGB,Technology,North,5,129.0,548.25,0.15,37.91
+ORD-2023-1417,08-27-2023,Neha Gupta,Logitech MX Master 3,Technology,South,5,99.0,396.0,0.2,7.28
+ORD-2024-1653,03-29-2024,John Smith,LED Desk Lamp with Wireless Charger,Furniture,East,6,55.0,280.5,0.15,2.93
+ORD-2023-1273,2023-08-15,Vikram Reddy,Steel Filing Cabinet,Furniture,South,8,140.0,896.0,0.2,-11.08
+ORD-2024-1621,05-18-2024,James Anderson,"4K Ultra HD Monitor 27""",Technology,North,7,349.0,2198.7,0.1,323.06
+ORD-2023-1155,2023-11-29,Daniel Clark,Conference Room Table,Furniture,East,8,620.0,3968.0,0.2,-141.03
+ORD-2023-1127,2023-05-30,Sarah Davis,Heavy-Duty Paper Shredder,Office Supplies,South,3,89.0,253.65,0.05,90.92
+ORD-2024-1450,2023-12-06,Priya Patel,Dry Erase Whiteboard 36x24,Office Supplies,West,5,65.0,292.5,0.1,96.71
+ORD-2024-1580,2024-03-21,Amit Joshi,Logitech MX Master 3,Technology,East,2,99.0,158.4,0.2,15.24
+ORD-2023-1342,2024-04-18,Michael Brown,Premium Notebook 3-Pack,Office Supplies,South,3,22.0,56.1,0.15,13.37
+ORD-2023-1431,05/05/2024,Olivia White,Premium Notebook 3-Pack,Office Supplies,South,3,22.0,56.1,0.15,15.92
+ORD-2023-1288,28/08/2023,Swati Iyer,Heavy-Duty Paper Shredder,Office Supplies,East,6,89.0,507.3,0.05,167.56
+ORD-2023-1114,2023-04-27,Neha Gupta,Premium Notebook 3-Pack,Office Supplies,South,8,22.0,158.4,0.1,42.05
+ORD-2024-1649,11/02/2023,Pooja Desai,ThinkPad Carbon X1,Technology,South,2,1150.0,2300.0,0.0,510.57
+ORD-2023-1174,2024-02-19,John Smith,AirPods Pro,Technology,West,6,249.0,1494.0,0.0,366.12
+ORD-2023-1360,26/11/2023,Manoj Kumar,Gel Pen Set 12-Pack,Office Supplies,West,8,15.0,114.0,0.05,33.69
+ORD-2024-1584,01-01-2023,Rohan Mehta,Mechanical Keyboard RGB,Technology,West,6,129.0,657.9,0.15,75.51
+ORD-2023-1058,2024-02-20,Aarav Sharma,"4K Ultra HD Monitor 27""",Technology,East,4,349.0,1186.6,0.15,93.73
+ORD-2024-1560,2024-06-10,Rahul Verma,Samsung Galaxy S23,Technology,South,3,799.0,2157.3,0.1,316.02
+ORD-2023-1223,2023-03-17,Deepak Chopra,Wooden Bookshelf 5-Tier,Furniture,North,6,180.0,972.0,0.1,68.3
+ORD-2023-1281,2024-03-06,Michael Brown,Wooden Bookshelf 5-Tier,Furniture,West,7,180.0,1260.0,0.0,208.38
+ORD-2023-1018,02/11/2023,Emily Taylor,Wireless Laser Pointer,Office Supplies,South,3,29.0,78.3,0.1,18.14
+ORD-2023-1128,2024-01-27,Sneha Nair,Steel Filing Cabinet,Furniture,South,4,140.0,476.0,0.15,10.62
+ORD-2023-1323,28/03/2023,Robert Martinez,Logitech MX Master 3,Technology,South,7,99.0,658.35,0.05,151.69
+ORD-2023-1256,2023-12-24,Swati Iyer,Mechanical Keyboard RGB,Technology,East,2,129.0,206.4,0.2,6.67
+ORD-2024-1546,2023-06-06,Emma Johnson,USB-C Multiport Hub,Technology,West,3,49.0,147.0,0.0,37.48
+ORD-2024-1471,04-19-2024,James Anderson,Dell XPS 15,Technology,North,8,1250.0,9500.0,0.05,1899.62
+ORD-2024-1607,2023-09-21,Sarah Davis,iPad Air,Technology,East,4,599.0,1916.8,0.2,81.29
+ORD-2024-1469,22/09/2023,Robert Martinez,Stapler & Punch Kit,Office Supplies,South,6,18.0,108.0,0.0,40.32
+ORD-2024-1784,2023-03-13,Aarav Sharma,Electric Standing Desk,Furniture,West,2,450.0,720.0,0.2,-20.54
+ORD-2023-1191,2024-05-12,Vikram Reddy,Samsung Galaxy S23,Technology,North,5,799.0,3995.0,0.0,956.34
+ORD-2023-1116,07-15-2023,Emily Taylor,Dry Erase Whiteboard 36x24,Office Supplies,South,2,65.0,117.0,,26.95
+ORD-2024-1524,2023-05-14,Amit Joshi,MacBook Air M2,Technology,East,8,999.0,7592.4,0.05,1812.62
+ORD-2024-1721,2023-12-29,Vikram Reddy,Mechanical Keyboard RGB,Technology,North,6,129.0,657.9,0.15,61.83
+ORD-2024-1552,2023-10-25,Emily Taylor,Conference Room Table,Furniture,North,7,620.0,3906.0,0.1,346.45
+ORD-2023-1095,2024-04-25,John Smith,AirPods Pro,Technology,North,5,249.0,1058.25,0.15,150.49
+ORD-2023-1181,2024-04-17,Priya Patel,Ergonomic Office Chair,Furniture  ,  East ,2,289.0,578.0,,98.72
+ORD-2023-1302,2024-05-17,Swati Iyer,Ergonomic Office Chair,Furniture,South,3,289.0,693.6,0.2,-16.53
+ORD-2024-1626,2024-05-18,Aarav Sharma,Samsung Galaxy S23,Technology,North,1,799.0,759.05,0.05,121.62
+ORD-2024-1590,2023-03-11,Sneha Nair,Gel Pen Set 12-Pack,Office Supplies,South,6,15.0,76.5,0.15,12.18
+ORD-2024-1599,2023-05-04,David Wilson,USB-C Multiport Hub,Technology,North,1,49.0,46.55,0.05,9.78
+ORD-2024-1569,02-09-2023,Robert Martinez,Conference Room Table,Furniture,North,2,620.0,1054.0,0.15,21.39
+ORD-2024-1618,2023-07-01,David Wilson,Premium Notebook 3-Pack,Office Supplies,West,5,22.0,99.0,0.1,26.64
+ORD-2024-1726,2023-12-02,Neha Gupta,Conference Room Table,Furniture,South,4,620.0,2480.0,0.0,454.46
+ORD-2024-1550,20/03/2023,Aarav Sharma,Conference Room Table,Furniture,North,7,620.0,3472.0,0.2,12.93
+ORD-2023-1006,14/02/2023,Robert Martinez,iPad Air,Technology,West,2,599.0,958.4,0.2,67.74
+ORD-2024-1626,2024-05-18,Aarav Sharma,Samsung Galaxy S23,Technology,North,1,799.0,759.05,0.05,121.62
+ORD-2023-1046,2023-06-02,Emma Johnson,Heavy-Duty Paper Shredder,Office Supplies,South,7,89.0,591.85,0.05,214.92
+ORD-2024-1741,17/03/2024,Sarah Davis,Heavy-Duty Paper Shredder,Office Supplies,East,4,89.0,338.2,0.05,96.29
+ORD-2023-1158,2023-09-19,Vikram Reddy,Gel Pen Set 12-Pack,Office Supplies,West,2,15.0,30.0,0.0,9.01
+ORD-2024-1614,2023-04-08,James Anderson,LED Desk Lamp with Wireless Charger,Furniture,North,1,55.0,46.75,0.15,1.54
+ORD-2023-1172,2024-05-27,Kavita Rao,Ergonomic Office Chair,Furniture,North,7,289.0,2023.0,0.0,374.46
+ORD-2023-1017,2023-06-11,Swati Iyer,Dry Erase Whiteboard 36x24,Office Supplies,East,3,65.0,156.0,0.2,17.64
+ORD-2024-1512,2023-05-12,Kavita Rao,Wireless Laser Pointer,Office Supplies,East,7,29.0,172.55,0.15,26.89
+ORD-2023-1049,2023-01-26,John Smith,Executive Leather Chair,Furniture,South,5,350.0,1662.5,0.05,187.27
+ORD-2024-1790,04-05-2024,Aarav Sharma,Dell XPS 15,Technology,East,1,1250.0,1125.0,0.1,146.22
+ORD-2024-1516,2024-05-06,Kavita Rao,Mesh Desktop Organizer,Office Supplies,West,5,25.0,106.25,0.15,19.13
+ORD-2024-1570,01-02-2023,Manoj Kumar,Gel Pen Set 12-Pack,Office Supplies,West,7,15.0,94.5,0.1,20.48
+ORD-2024-1481,06-18-2023,Michael Brown,MacBook Air M2,Technology,South,4,999.0,3796.2,0.05,851.57
+ORD-2023-1284,24/01/2024,Sneha Nair,Wooden Bookshelf 5-Tier,Furniture,,3,180.0,486.0,0.1,56.66
+ORD-2024-1544,22/07/2023,James Anderson,USB-C Multiport Hub,Technology,East,3,49.0,139.65,0.05,32.63
+ORD-2023-1226,23/04/2024,Robert Martinez,Samsung Galaxy S23,Technology,North,2,799.0,1438.2,0.1,236.74
+ORD-2023-1027,2023-07-14,Kavita Rao,Executive Leather Chair,Furniture,East,7,350.0,2082.5,0.15,79.96
+ORD-2024-1641,2023-06-14,Vikram Reddy,Wooden Bookshelf 5-Tier,Furniture,East,5,180.0,720.0,0.2,-8.43
+ORD-2023-1438,2023-06-24,Rohan Mehta,Steel Filing Cabinet,Furniture,North,5,140.0,595.0,0.15,22.63
+ORD-2023-1365,2023-05-14,James Anderson,USB-C Multiport Hub,Technology,North,1,49.0,49.0,0.0,11.27
+ORD-2023-1230,2023-08-19,Emily Taylor,"4K Ultra HD Monitor 27""",Technology,North,5,349.0,1657.75,0.05,312.7
+ORD-2023-1038,2023-11-18,Michael Brown,Samsung Galaxy S23,Technology,East,8,799.0,5752.8,0.1,675.5
+ORD-2024-1785,2024-01-03,Pooja Desai,Electric Standing Desk,Furniture,North,2,450.0,810.0,0.1,69.51
+ORD-2023-1375,2023-08-11,Neha Gupta,Samsung Galaxy S23,Technology,North,7,799.0,5033.7,0.1,575.74
+ORD-2024-1470,17/08/2023,Pooja Desai,Executive Leather Chair,Furniture,East,6,350.0,1890.0,0.1,153.62
+ORD-2024-1787,2024-01-29,Pooja Desai,Mesh Desktop Organizer,Office Supplies,West,2,25.0,45.0,0.1,12.08
+ORD-2024-1694,02-13-2023,Sneha Nair,Conference Room Table,Furniture,West,1,620.0,496.0,0.2,-6.81
+ORD-2024-1762,2023-10-15,Amit Joshi,MacBook Air M2,Technology,North,3,999.0,2397.6,0.2,62.59
+ORD-2023-1195,2024-03-27,Pooja Desai,Stapler & Punch Kit,Office Supplies,West,7,18.0,119.7,0.05,31.75
+ORD-2024-1696,2023-10-29,Priya Patel,Mesh Desktop Organizer,Office Supplies,South,8,25.0,170.0,0.15,47.83
+ORD-2024-1705,2024-05-02,David Wilson,ThinkPad Carbon X1,Technology,North,4,1150.0,3680.0,0.2,265.65
+ORD-2024-1504,01/01/2023,Daniel Clark,Wireless Laser Pointer,Office Supplies,East,4,29.0,98.6,0.15,15.77
+ORD-2024-1789,2024-02-03,Robert Martinez,Premium Notebook 3-Pack,Office Supplies,,8,22.0,140.8,0.2,14.82
+ORD-2024-1680,01-31-2023,Amit Joshi,Logitech MX Master 3,Technology,South,6,99.0,504.9,0.15,46.0
+ORD-2024-1788,24/03/2024,Vikram Reddy,Dell XPS 15,Technology,South,1,1250.0,1000.0,0.2,76.15
+ORD-2023-1163,2023-01-27,Kavita Rao,Mesh Desktop Organizer,Office Supplies,East,1,25.0,23.75,0.05,7.93
+ORD-2024-1582,2024-03-25,Kavita Rao,Conference Room Table,Furniture,East,4,620.0,2480.0,0.0,390.06
+ORD-2023-1153,05/05/2024,Sarah Davis,Gel Pen Set 12-Pack,Office Supplies,North,8,15.0,102.0,,28.94
+ORD-2024-1757,2023-04-01,Arjun Kapoor,Dry Erase Whiteboard 36x24,Office Supplies,North,5,65.0,260.0,0.2,62.94
+ORD-2024-1581,01-29-2024,Michael Brown,Wireless Laser Pointer,Office Supplies,East,1,29.0,27.55,0.05,7.92
+ORD-2024-1622,2023-01-08,Rahul Verma,Executive Leather Chair,Furniture,West,7,350.0,2327.5,0.05,384.5
+ORD-2023-1112,05-15-2023,David Wilson,Mesh Desktop Organizer,Office Supplies,West,2,25.0,50.0,0.0,14.16
+ORD-2023-1227,2024-05-05,Manoj Kumar,Executive Leather Chair,Furniture,North,3,350.0,945.0,0.1,72.04
+ORD-2024-1571,2024-06-26,James Anderson,Stapler & Punch Kit,Office Supplies,West,6,18.0,86.4,0.2,11.17
+ORD-2023-1104,2023-11-08,Amit Joshi,Conference Room Table,Furniture,West,8,620.0,4960.0,0.0,853.9
+ORD-2023-1422,26/07/2023,John Smith,Mesh Desktop Organizer,Office Supplies,South,6,25.0,150.0,0.0,59.61
+ORD-2023-1420,12/07/2023,James Anderson,LED Desk Lamp with Wireless Charger,Furniture,East,3,55.0,140.25,0.15,11.05
+ORD-2023-1120,2024-02-25,Swati Iyer,Steel Filing Cabinet,Furniture,West,7,140.0,931.0,0.05,127.77
+ORD-2023-1054,2023-11-18,Emily Taylor,iPad Air,Technology  ,  West ,4,599.0,2156.4,0.1,422.77
+ORD-2023-1152,2024-04-07,Daniel Clark,Dell XPS 15,Technology,East,8,1250.0,10000.0,0.0,2751.34
+ORD-2023-1404,09-29-2023,Rohan Mehta,AirPods Pro,Technology,East,1,249.0,236.55,0.05,40.62
+ORD-2024-1769,2024-06-26,Priya Patel,iPad Air,Technology,East,7,599.0,3354.4,0.2,27.49
+ORD-2023-1208,17/04/2023,Swati Iyer,Stapler & Punch Kit,Office Supplies,East,3,18.0,54.0,0.0,19.32
+ORD-2024-1689,2023-05-21,Sneha Nair,Dell XPS 15,Technology,West,1,1250.0,1125.0,0.1,129.98
+ORD-2024-1639,2024-01-22,Vikram Reddy,Mechanical Keyboard RGB,Technology,North,8,129.0,877.2,0.15,88.01
+ORD-2023-1009,2023-08-03,Deepak Chopra,Gel Pen Set 12-Pack,Office Supplies,North,3,15.0,36.0,0.2,5.06
+ORD-2024-1797,2023-10-08,Sarah Davis,AirPods Pro,Technology,East,3,249.0,634.95,0.15,82.55
+ORD-2023-1037,2023-03-25,Olivia White,Heavy-Duty Paper Shredder,Office Supplies,East,5,89.0,422.75,0.05,119.99
+ORD-2024-1453,21/02/2024,Manoj Kumar,Conference Room Table,Furniture,East,1,620.0,496.0,0.2,-26.86
+ORD-2023-1254,2024-06-29,Emma Johnson,Gel Pen Set 12-Pack,Office Supplies,East,8,15.0,114.0,0.05,28.21
+ORD-2023-1304,2023-08-25,Vikram Reddy,MacBook Air M2,Technology,South,8,999.0,7192.8,0.1,1399.91
+ORD-2024-1627,2023-10-16,Deepak Chopra,Wooden Bookshelf 5-Tier,Furniture,North,4,180.0,720.0,0.0,149.72
+ORD-2024-1572,2023-04-11,Amit Joshi,Steel Filing Cabinet,Furniture,South,2,140.0,252.0,0.1,20.2
+ORD-2024-1588,06-09-2024,Robert Martinez,Heavy-Duty Paper Shredder,Office Supplies,East,8,89.0,605.2,0.15,129.88
+ORD-2024-1596,2024-05-08,John Smith,Steel Filing Cabinet,Furniture,East,8,140.0,1064.0,0.05,102.2
+ORD-2023-1263,03-02-2023,Rohan Mehta,Premium Notebook 3-Pack,Office Supplies,South,1,22.0,20.9,0.05,6.6
+ORD-2023-1298,2024-01-03,Emma Johnson,Conference Room Table,Furniture,West,8,620.0,4960.0,0.0,772.64
+ORD-2023-1415,2024-05-11,Olivia White,Conference Room Table,Furniture,East,7,620.0,3906.0,0.1,458.37
+ORD-2023-1151,2024-06-22,Rohan Mehta,Steel Filing Cabinet,Furniture,West,6,140.0,672.0,0.2,-23.09
+ORD-2024-1767,2024-05-02,Swati Iyer,Stapler & Punch Kit,Office Supplies,South,7,18.0,107.1,0.15,24.32
+ORD-2024-1724,2023-11-06,Emma Johnson,Dell XPS 15,Technology,South,2,1250.0,2125.0,0.15,223.8
+ORD-2024-1551,2023-02-07,Robert Martinez,LED Desk Lamp with Wireless Charger,Furniture  ,  West ,3,55.0,148.5,0.1,14.62
+ORD-2024-1489,04-02-2023,Olivia White,Gel Pen Set 12-Pack,Office Supplies,West,3,15.0,45.0,0.0,13.79
+ORD-2023-1148,2023-08-27,Vikram Reddy,Wireless Laser Pointer,Office Supplies,North,5,29.0,137.75,0.05,33.57
+ORD-2023-1147,09-07-2023,Olivia White,Sony WH-1000XM5,Technology,North,4,399.0,1276.8,0.2,100.11
+ORD-2024-1597,2024-06-07,Sneha Nair,Stapler & Punch Kit,Office Supplies,South,1,18.0,14.4,0.2,1.87
+ORD-2024-1758,2023-12-18,Aarav Sharma,Steel Filing Cabinet,Furniture,West,8,140.0,896.0,0.2,-43.35
+ORD-2024-1610,19/02/2024,Rohan Mehta,ThinkPad Carbon X1,Technology,South,6,1150.0,6555.0,0.05,1413.96
+ORD-2023-1349,2023-06-27,James Anderson,"4K Ultra HD Monitor 27""",Technology,South,3,349.0,942.3,0.1,117.94
+ORD-2024-1464,12-11-2023,Arjun Kapoor,USB-C Multiport Hub,Technology,East,5,49.0,220.5,0.1,40.41
+ORD-2023-1326,2024-04-13,Pooja Desai,MacBook Air M2,Technology,West,6,999.0,4795.2,0.2,297.36
+ORD-2023-1187,2024-01-31,Swati Iyer,Gel Pen Set 12-Pack,Office Supplies,South,6,15.0,90.0,0.0,29.71
+ORD-2023-1124,2023-11-21,Manoj Kumar,Steel Filing Cabinet,Furniture,North,2,140.0,266.0,0.05,33.46
+ORD-2024-1695,2023-02-20,David Wilson,Electric Standing Desk,Furniture,East,5,450.0,1912.5,0.15,127.53
+ORD-2023-1144,2024-05-16,Amit Joshi,Dell XPS 15,Technology,East,4,1250.0,4250.0,0.15,472.12
+ORD-2024-1779,2023-07-25,Ananya Singh,Premium Notebook 3-Pack,Office Supplies,West,2,22.0,41.8,0.05,12.55
+ORD-2023-1198,31/05/2023,Rohan Mehta,Logitech MX Master 3,Technology,West,6,99.0,594.0,0.0,146.6
+ORD-2023-1280,03-12-2023,James Anderson,Dell XPS 15,Technology,East,7,1250.0,8312.5,0.05,1474.22
+ORD-2023-1294,2023-12-05,David Wilson,Ergonomic Office Chair,Furniture,North,4,289.0,1156.0,0.0,229.49
+ORD-2023-1401,11-19-2023,Michael Brown,Mesh Desktop Organizer,Office Supplies,East,6,25.0,127.5,0.15,32.6
+ORD-2023-1123,2023-09-29,Deepak Chopra,Electric Standing Desk,Furniture,North,6,450.0,2160.0,0.2,-28.08
+ORD-2023-1184,12-18-2023,Rohan Mehta,Conference Room Table,Furniture,South,1,620.0,589.0,0.05,70.3
+ORD-2023-1203,2023-05-05,Sarah Davis,Premium Notebook 3-Pack,Office Supplies,West,2,22.0,44.0,0.0,13.18
+ORD-2023-1439,2023-09-29,Robert Martinez,Electric Standing Desk,Furniture,South,6,450.0,2295.0,0.15,109.21
+ORD-2023-1247,2024-06-11,Daniel Clark,USB-C Multiport Hub,Technology,South,7,49.0,274.4,0.2,7.15
+ORD-2023-1416,2023-11-23,Aarav Sharma,Stapler & Punch Kit,Office Supplies,East,1,18.0,15.3,0.15,3.36
+ORD-2024-1723,2023-10-06,James Anderson,Logitech MX Master 3,Technology,East,8,99.0,712.8,0.1,128.87
+ORD-2023-1130,12-20-2023,Pooja Desai,Premium Notebook 3-Pack,Office Supplies,West,5,22.0,93.5,0.15,16.34
+ORD-2023-1403,2024-04-22,Neha Gupta,LED Desk Lamp with Wireless Charger,Furniture,East,4,55.0,187.0,0.15,9.97
+ORD-2024-1688,2024-05-03,Daniel Clark,Steel Filing Cabinet,Furniture,East,3,140.0,357.0,0.15,12.89
+ORD-2024-1650,2024-06-28,Rahul Verma,Conference Room Table,Furniture,South,3,620.0,1488.0,0.2,-74.28
+ORD-2024-1743,2023-11-30,David Wilson,AirPods Pro,Technology,East,7,249.0,1743.0,0.0,404.62
+ORD-2023-1220,2023-03-20,Emily Taylor,Ergonomic Office Chair,Furniture,West,6,289.0,1560.6,0.1,173.45
+ORD-2024-1745,01/01/2023,Kavita Rao,Samsung Galaxy S23,Technology,West,5,799.0,3395.75,0.15,322.61
+ORD-2024-1619,21/08/2023,David Wilson,"4K Ultra HD Monitor 27""",Technology,East,7,349.0,2198.7,0.1,409.31
+ORD-2024-1783,2023-01-04,Manoj Kumar,Steel Filing Cabinet,Furniture,West,7,140.0,833.0,0.15,2.43
+ORD-2024-1686,2023-10-08,Rahul Verma,iPad Air,Technology,South,3,599.0,1797.0,0.0,393.55
+ORD-2024-1627,2023-10-16,Deepak Chopra,Wooden Bookshelf 5-Tier,Furniture,North,4,180.0,720.0,0.0,149.72
+ORD-2023-1387,03/10/2023,Neha Gupta,Stapler & Punch Kit,Office Supplies,North,6,18.0,91.8,0.15,23.48
+ORD-2024-1791,2023-02-13,Rahul Verma,Premium Notebook 3-Pack,Office Supplies,West,3,22.0,52.8,0.2,11.35
+ORD-2024-1510,2024-04-06,Olivia White,Conference Room Table,Furniture,South,8,620.0,4960.0,,880.75
+ORD-2023-1268,2023-10-30,Manoj Kumar,Sony WH-1000XM5,Technology,South,7,399.0,2374.05,0.15,247.96
+ORD-2024-1672,19/06/2024,Robert Martinez,Steel Filing Cabinet,Furniture,South,1,140.0,119.0,0.15,3.27
+ORD-2023-1442,2023-08-21,Michael Brown,Conference Room Table,Furniture,West,8,620.0,3968.0,0.2,-250.64
+ORD-2024-1497,2023-05-14,James Anderson,iPad Air,Technology  ,  West ,8,599.0,4792.0,0.0,1317.48
+ORD-2023-1113,03/09/2023,Pooja Desai,LED Desk Lamp with Wireless Charger,Furniture,North,7,55.0,385.0,0.0,77.78
+ORD-2023-1233,2023-09-29,Manoj Kumar,Heavy-Duty Paper Shredder,Office Supplies,West,1,89.0,75.65,0.15,12.76
+ORD-2024-1710,2023-03-08,Vikram Reddy,iPad Air,Technology,East,6,599.0,2875.2,0.2,168.56
+ORD-2024-1608,06-28-2023,Pooja Desai,Ergonomic Office Chair,Furniture,East,8,289.0,1965.2,0.15,-2.71
+ORD-2023-1374,2024-03-26,Rahul Verma,Premium Notebook 3-Pack,Office Supplies,South,7,22.0,123.2,0.2,18.11
+ORD-2023-1234,2023-10-24,Pooja Desai,Steel Filing Cabinet,Furniture,South,7,140.0,882.0,0.1,82.04
+ORD-2024-1644,2023-06-07,John Smith,Executive Leather Chair,Furniture,East,2,350.0,700.0,0.0,124.7
+ORD-2023-1318,2024-01-25,Daniel Clark,"4K Ultra HD Monitor 27""",Technology,South,2,349.0,698.0,0.0,180.48
+ORD-2023-1411,2024-03-12,Rahul Verma,AirPods Pro,Technology,East,5,249.0,1058.25,0.15,73.86
+ORD-2024-1732,2023-12-13,Priya Patel,Samsung Galaxy S23,Technology,North,8,799.0,6392.0,0.0,1735.59
+ORD-2023-1359,02-26-2024,Amit Joshi,Premium Notebook 3-Pack,Office Supplies,South,3,22.0,62.7,0.05,21.94
+ORD-2023-1259,10-05-2023,Deepak Chopra,Mechanical Keyboard RGB,Technology,South,2,129.0,206.4,0.2,5.35
+ORD-2024-1628,2024-05-20,Sarah Davis,"4K Ultra HD Monitor 27""",Technology,West,6,349.0,1779.9,0.15,155.47
+ORD-2024-1633,2024-06-17,James Anderson,Premium Notebook 3-Pack,Office Supplies,East,4,22.0,79.2,0.1,17.03
+ORD-2023-1283,17/08/2023,Manoj Kumar,MacBook Air M2,Technology,East,8,999.0,6393.6,0.2,368.19
+ORD-2023-1377,19/10/2023,Deepak Chopra,MacBook Air M2,Technology,East,4,999.0,3196.8,0.2,125.66
+ORD-2023-1385,2024-03-20,Daniel Clark,Wireless Laser Pointer,Office Supplies,North,5,29.0,137.75,0.05,48.67
+ORD-2023-1225,25/07/2023,Sneha Nair,Steel Filing Cabinet,Furniture,,6,140.0,672.0,0.2,-21.66
+ORD-2024-1775,2023-05-14,Manoj Kumar,Premium Notebook 3-Pack,Office Supplies,South,2,22.0,41.8,0.05,14.06
+ORD-2024-1668,2023-07-15,Daniel Clark,Premium Notebook 3-Pack,Office Supplies,North,5,22.0,104.5,0.05,25.46
+ORD-2024-1473,2024-04-13,Deepak Chopra,AirPods Pro,Technology,North,8,249.0,1792.8,0.1,258.0
+ORD-2023-1348,2024-06-07,Daniel Clark,Samsung Galaxy S23,Technology,West,7,799.0,5313.35,0.05,1068.63
+ORD-2024-1506,2023-04-27,Kavita Rao,Logitech MX Master 3,Technology,North,6,99.0,534.6,0.1,67.48
+ORD-2024-1640,2024-05-16,Ananya Singh,LED Desk Lamp with Wireless Charger,Furniture,East,6,55.0,280.5,0.15,15.83
+ORD-2024-1611,26/10/2023,Daniel Clark,Premium Notebook 3-Pack,Office Supplies,West,5,22.0,93.5,0.15,17.19
+ORD-2024-1756,2023-03-23,Swati Iyer,Conference Room Table,Furniture,East,8,620.0,3968.0,0.2,68.16
+ORD-2024-1737,05/12/2023,John Smith,Wooden Bookshelf 5-Tier,Furniture,West,1,180.0,180.0,0.0,32.76
+ORD-2024-1620,2023-01-11,Manoj Kumar,Samsung Galaxy S23,Technology,East,5,799.0,3395.75,0.15,348.33
+ORD-2024-1697,2024-05-27,Manoj Kumar,Heavy-Duty Paper Shredder,Office Supplies,South,7,89.0,529.55,0.15,131.57
+ORD-2024-1646,2023-04-12,Arjun Kapoor,Electric Standing Desk,Furniture,West,5,450.0,2250.0,0.0,429.06
+ORD-2024-1690,16/08/2023,Rahul Verma,Stapler & Punch Kit,Office Supplies,South,2,18.0,34.2,0.05,8.59
+ORD-2024-1557,08/10/2023,Amit Joshi,Heavy-Duty Paper Shredder,Office Supplies,South,7,89.0,529.55,0.15,128.44
+ORD-2024-1578,02/04/2024,Ananya Singh,iPad Air,Technology,South,7,599.0,3773.7,0.1,486.1
+ORD-2023-1086,2024-01-24,James Anderson,USB-C Multiport Hub,Technology,South,8,49.0,372.4,0.05,79.03
+ORD-2023-1243,2023-02-22,Rahul Verma,Ergonomic Office Chair,Furniture,East,2,289.0,491.3,0.15,17.14
+ORD-2023-1160,2023-12-04,Sarah Davis,Ergonomic Office Chair,Furniture,West,1,289.0,260.1,0.1,20.8
+ORD-2024-1525,2023-11-27,Manoj Kumar,Premium Notebook 3-Pack,Office Supplies,East,8,22.0,140.8,0.2,23.58
+ORD-2023-1036,2023-03-11,Sneha Nair,Electric Standing Desk,Furniture,North,4,450.0,1440.0,0.2,-49.61
+ORD-2024-1541,2024-02-08,Rohan Mehta,"4K Ultra HD Monitor 27""",Technology,South,6,349.0,1989.3,0.05,412.49
+ORD-2023-1171,2023-01-08,Sarah Davis,AirPods Pro,Technology,South,7,249.0,1394.4,0.2,41.32
+ORD-2024-1655,2023-09-18,David Wilson,Wooden Bookshelf 5-Tier,Furniture,West,1,180.0,180.0,0.0,25.45
+ORD-2024-1699,17/06/2023,Neha Gupta,ThinkPad Carbon X1,Technology,North,8,1150.0,8280.0,0.1,1593.21
+ORD-2024-1691,03-25-2024,James Anderson,Mesh Desktop Organizer,Office Supplies,East,8,25.0,190.0,0.05,59.74
+ORD-2024-1768,2023-05-29,Sarah Davis,MacBook Air M2,Technology,East,8,999.0,6793.2,0.15,605.16
+ORD-2023-1096,2023-03-08,Rohan Mehta,Heavy-Duty Paper Shredder,Office Supplies,North,3,89.0,253.65,0.05,67.46
+ORD-2024-1564,2023-07-04,Michael Brown,Wireless Laser Pointer,Office Supplies,North,5,29.0,145.0,0.0,54.23
+ORD-2023-1241,2023-02-21,Daniel Clark,Premium Notebook 3-Pack,Office Supplies  ,  West ,5,22.0,88.0,0.2,21.89
+ORD-2024-1575,2023-09-17,Robert Martinez,Executive Leather Chair,Furniture,East,5,350.0,1487.5,0.15,16.8
+ORD-2024-1461,09/11/2023,Deepak Chopra,Premium Notebook 3-Pack,Office Supplies,East,7,22.0,130.9,0.15,22.76
+ORD-2024-1554,30/05/2023,James Anderson,Ergonomic Office Chair,Furniture,North,4,289.0,982.6,0.15,59.49
+ORD-2024-1716,18/09/2023,Pooja Desai,"4K Ultra HD Monitor 27""",Technology,East,1,349.0,349.0,0.0,78.57
+ORD-2023-1207,02-01-2024,Amit Joshi,Dry Erase Whiteboard 36x24,Office Supplies,North,6,65.0,390.0,0.0,139.86
+ORD-2023-1393,2023-02-23,Emily Taylor,Dell XPS 15,Technology,West,2,1250.0,2125.0,0.15,151.79
+ORD-2023-1398,2023-09-01,Priya Patel,Samsung Galaxy S23,Technology,East,2,799.0,1598.0,0.0,329.66
+ORD-2024-1692,2023-02-12,Michael Brown,Dry Erase Whiteboard 36x24,Office Supplies,East,7,65.0,364.0,0.2,39.72
+ORD-2023-1218,06-13-2023,Vikram Reddy,Wireless Laser Pointer,Office Supplies,West,1,29.0,27.55,0.05,9.92
+ORD-2023-1005,2023-12-11,Michael Brown,iPad Air,Technology,East,6,599.0,2875.2,0.2,211.46
+ORD-2024-1643,2023-09-02,Rohan Mehta,Gel Pen Set 12-Pack,Office Supplies,West,4,15.0,48.0,0.2,7.08
+ORD-2024-1731,2023-11-23,Deepak Chopra,"4K Ultra HD Monitor 27""",Technology,South,3,349.0,1047.0,0.0,267.08
+ORD-2024-1613,09/05/2023,Kavita Rao,Mechanical Keyboard RGB,Technology,North,4,129.0,490.2,0.05,102.29
+ORD-2024-1547,15/08/2023,Arjun Kapoor,Executive Leather Chair,Furniture,East,6,350.0,1995.0,0.05,242.83
+ORD-2024-1684,2023-06-11,Robert Martinez,LED Desk Lamp with Wireless Charger,Furniture,North,3,55.0,148.5,0.1,8.72
+ORD-2023-1099,04-12-2023,Rahul Verma,Premium Notebook 3-Pack,Office Supplies,South,5,22.0,110.0,0.0,41.93
+ORD-2024-1574,2023-07-30,John Smith,Executive Leather Chair,Furniture,East,2,350.0,665.0,0.05,95.14
+ORD-2023-1407,2023-09-13,Neha Gupta,Samsung Galaxy S23,Technology,North,1,799.0,799.0,0.0,170.64
+ORD-2024-1503,2024-04-02,James Anderson,Dry Erase Whiteboard 36x24,Office Supplies,North,2,65.0,110.5,0.15,26.07
+ORD-2023-1048,02-21-2024,Swati Iyer,Samsung Galaxy S23,Technology,South,3,799.0,2277.15,0.05,382.29
+ORD-2023-1033,2024-04-10,Deepak Chopra,Dry Erase Whiteboard 36x24,Office Supplies,West,3,65.0,185.25,0.05,61.31
+ORD-2023-1201,2024-04-28,Vikram Reddy,Stapler & Punch Kit,Office Supplies,West,8,18.0,115.2,0.2,28.71
+ORD-2023-1135,2024-03-27,Emma Johnson,Dry Erase Whiteboard 36x24,Office Supplies,South,2,65.0,117.0,0.1,33.9
+ORD-2023-1028,2023-02-25,Arjun Kapoor,iPad Air,Technology,North,7,599.0,3773.7,0.1,486.19
+ORD-2024-1718,12-13-2023,James Anderson,Steel Filing Cabinet,Furniture,North,3,140.0,357.0,0.15,24.18
+ORD-2023-1231,2023-10-09,Pooja Desai,Wireless Laser Pointer,Office Supplies,North,3,29.0,69.6,0.2,7.57
+ORD-2024-1490,18/03/2023,Neha Gupta,Mechanical Keyboard RGB,Technology,South,8,129.0,928.8,0.1,163.95
+ORD-2023-1379,2023-09-04,Daniel Clark,ThinkPad Carbon X1,Technology,North,6,1150.0,6210.0,0.1,1169.15
+ORD-2023-1289,05-27-2023,Emily Taylor,Logitech MX Master 3,Technology,West,5,99.0,445.5,0.1,86.69
+ORD-2023-1419,22/11/2023,Deepak Chopra,Ergonomic Office Chair,Furniture,North,6,289.0,1387.2,0.2,-43.5
+ORD-2024-1675,2023-01-20,Arjun Kapoor,Electric Standing Desk,Furniture,South,7,450.0,2520.0,0.2,-183.11
+ORD-2023-1392,03-02-2024,John Smith,Mechanical Keyboard RGB,Technology,North,6,129.0,774.0,0.0,185.63
+ORD-2024-1593,2023-10-03,Swati Iyer,Gel Pen Set 12-Pack,Office Supplies,South,8,15.0,114.0,0.05,38.62
+ORD-2024-1499,2023-04-08,Swati Iyer,Logitech MX Master 3,Technology,West,6,99.0,504.9,0.15,70.16
+ORD-2023-1139,2023-01-15,Neha Gupta,Wooden Bookshelf 5-Tier,Furniture,East,5,180.0,720.0,0.2,-9.43
+ORD-2023-1063,2023-06-01,Aarav Sharma,Stapler & Punch Kit,Office Supplies,North,7,18.0,119.7,0.05,41.44
+ORD-2024-1472,2024-01-26,Sarah Davis,Dell XPS 15,Technology,South,3,1250.0,3562.5,0.05,759.7
+ORD-2024-1648,2023-03-04,Swati Iyer,Executive Leather Chair,Furniture,East,1,350.0,280.0,0.2,-0.44
+ORD-2023-1129,2024-04-15,Aarav Sharma,Wooden Bookshelf 5-Tier,Furniture,East,3,180.0,540.0,0.0,99.72
+ORD-2024-1794,07/03/2023,Neha Gupta,iPad Air,Technology,West,4,599.0,2396.0,0.0,516.68
+ORD-2024-1521,2023-02-25,Amit Joshi,Sony WH-1000XM5,Technology,West,4,399.0,1436.4,0.1,190.87
+ORD-2023-1065,06-27-2024,Daniel Clark,USB-C Multiport Hub,Technology,West,7,49.0,274.4,0.2,15.2
+ORD-2023-1015,2024-03-08,Michael Brown,Electric Standing Desk,Furniture,West,5,450.0,1800.0,0.2,-109.94
+ORD-2023-1157,2024-02-28,David Wilson,Electric Standing Desk,Furniture,West,2,450.0,810.0,0.1,77.27
+ORD-2023-1041,2023-11-06,Arjun Kapoor,Conference Room Table,Furniture,North,5,620.0,3100.0,0.0,449.15
+ORD-2024-1493,03-24-2024,Amit Joshi,Dry Erase Whiteboard 36x24,Office Supplies,North,6,65.0,351.0,0.1,108.44
+ORD-2023-1380,2024-03-06,Kavita Rao,AirPods Pro,Technology,West,2,249.0,498.0,0.0,116.04
+ORD-2023-1188,05-25-2023,Pooja Desai,Premium Notebook 3-Pack,Office Supplies,West,3,22.0,52.8,0.2,7.59
+ORD-2023-1217,2024-03-21,Priya Patel,ThinkPad Carbon X1,Technology,West,6,1150.0,5520.0,0.2,109.8
+ORD-2023-1053,2023-09-25,Amit Joshi,Dell XPS 15,Technology,North,7,1250.0,7875.0,0.1,1065.02
+ORD-2023-1338,2023-03-29,Swati Iyer,Samsung Galaxy S23,Technology,East,5,799.0,3595.5,0.1,573.58
+ORD-2024-1720,2023-11-03,Kavita Rao,USB-C Multiport Hub,Technology,North,4,49.0,156.8,0.2,4.93
+ORD-2024-1725,05-09-2024,Vikram Reddy,Sony WH-1000XM5,Technology,East,8,399.0,2553.6,0.2,176.11
+ORD-2023-1296,2023-12-07,Aarav Sharma,Sony WH-1000XM5,Technology,South,2,399.0,678.3,0.15,45.36
+ORD-2024-1702,2023-02-22,Pooja Desai,Dry Erase Whiteboard 36x24,Office Supplies,West,5,65.0,308.75,,109.17
+ORD-2023-1252,2023-06-05,Rahul Verma,Executive Leather Chair,Furniture,West,1,350.0,332.5,0.05,44.98
+ORD-2024-1727,2024-06-18,Pooja Desai,Dell XPS 15,Technology,North,6,1250.0,6375.0,0.15,441.49
+ORD-2024-1462,2024-04-15,David Wilson,"4K Ultra HD Monitor 27""",Technology,West,2,349.0,698.0,0.0,166.88
+ORD-2024-1456,2023-10-08,David Wilson,Conference Room Table,Furniture  ,  West ,2,620.0,1240.0,0.0,248.8
+ORD-2023-1429,2023-09-13,Emma Johnson,Mechanical Keyboard RGB,Technology,North,1,129.0,129.0,0.0,32.14
+ORD-2023-1270,2023-01-07,Sneha Nair,Wooden Bookshelf 5-Tier,Furniture,East,6,180.0,972.0,0.1,79.28
+ORD-2023-1202,2023-03-23,Rahul Verma,Samsung Galaxy S23,Technology,West,2,799.0,1438.2,0.1,257.26
+ORD-2023-1162,25/12/2023,Emma Johnson,iPad Air,Technology  ,  East ,4,599.0,2036.6,0.15,149.48
+ORD-2024-1556,04-10-2024,Priya Patel,Premium Notebook 3-Pack,Office Supplies,East,2,22.0,35.2,0.2,5.45
+ORD-2024-1730,2023-10-07,Amit Joshi,iPad Air,Technology,North,2,599.0,1138.1,0.05,223.54
+ORD-2023-1402,03-18-2023,Vikram Reddy,Stapler & Punch Kit,Office Supplies,North,3,18.0,54.0,0.0,20.53
+ORD-2024-1703,05-15-2023,Aarav Sharma,Wireless Laser Pointer,Office Supplies,East,1,29.0,24.65,0.15,5.52
+ORD-2024-1477,01-18-2024,John Smith,Stapler & Punch Kit,Office Supplies,South,1,18.0,18.0,0.0,5.85
+ORD-2023-1106,01-22-2023,Kavita Rao,Mechanical Keyboard RGB,Technology,North,3,129.0,328.95,0.15,34.24
+ORD-2024-1566,2023-07-06,Emily Taylor,Mechanical Keyboard RGB,Technology,South,6,129.0,657.9,0.15,63.68
+ORD-2023-1390,2023-04-29,Emily Taylor,MacBook Air M2,Technology,North,1,999.0,949.05,0.05,226.1
+ORD-2023-1002,2023-03-31,Priya Patel,MacBook Air M2,Technology,North,4,999.0,3796.2,0.05,757.53
+ORD-2024-1763,2024-04-02,Ananya Singh,Mechanical Keyboard RGB,Technology,South,8,129.0,980.4,0.05,171.36
+ORD-2024-1562,2023-06-15,Sarah Davis,MacBook Air M2,Technology,South,1,999.0,949.05,0.05,183.94
+ORD-2023-1081,11-05-2023,Daniel Clark,iPad Air,Technology,North,6,599.0,2875.2,0.2,164.35
+ORD-2023-1206,03/06/2024,Emily Taylor,LED Desk Lamp with Wireless Charger,Furniture,North,7,55.0,327.25,0.15,25.61
+ORD-2023-1035,05-29-2024,Emily Taylor,AirPods Pro,Technology,North,2,249.0,473.1,0.05,111.81
+ORD-2024-1509,15/07/2023,Neha Gupta,Stapler & Punch Kit,Office Supplies,West,1,18.0,14.4,0.2,3.33
+ORD-2023-1428,2023-11-24,Rohan Mehta,Mesh Desktop Organizer,Office Supplies,East,8,25.0,200.0,0.0,73.63
+ORD-2024-1455,25/07/2023,Sneha Nair,Dell XPS 15,Technology,West,1,1250.0,1125.0,0.1,154.54
+ORD-2023-1367,05-16-2023,Pooja Desai,AirPods Pro,Technology,East,2,249.0,448.2,0.1,79.66
+ORD-2023-1092,2023-07-09,Swati Iyer,Steel Filing Cabinet,Furniture,East,5,140.0,700.0,0.0,107.37
+ORD-2023-1340,2023-11-04,Deepak Chopra,iPad Air,Technology,North,6,599.0,3594.0,0.0,811.63
+ORD-2024-1565,04-27-2024,Ananya Singh,Logitech MX Master 3,Technology,West,3,99.0,237.6,0.2,4.27
+ORD-2023-1346,2023-04-27,David Wilson,Wireless Laser Pointer,Office Supplies,South,5,29.0,116.0,0.2,18.73
+ORD-2023-1242,2023-04-21,,Dry Erase Whiteboard 36x24,Office Supplies,East,7,65.0,409.5,0.1,134.03
+ORD-2023-1014,2023-05-22,Rohan Mehta,Stapler & Punch Kit,Office Supplies,North,2,18.0,34.2,0.05,9.89
+ORD-2023-1316,2023-12-15,Daniel Clark,Wireless Laser Pointer,Office Supplies,West,6,29.0,174.0,0.0,56.36
+ORD-2024-1601,2023-12-18,James Anderson,Executive Leather Chair,Furniture,South,7,350.0,2205.0,0.1,222.44
+ORD-2023-1388,2023-03-07,Olivia White,Premium Notebook 3-Pack,Office Supplies,North,8,22.0,149.6,0.15,33.21
+ORD-2023-1274,27/04/2024,Kavita Rao,Sony WH-1000XM5,Technology,South,2,399.0,638.4,0.2,35.32
+ORD-2023-1167,2023-02-20,Amit Joshi,Wooden Bookshelf 5-Tier,Furniture,West,8,180.0,1152.0,0.2,-22.12
+ORD-2023-1091,2023-09-15,Swati Iyer,Sony WH-1000XM5,Technology,East,2,399.0,638.4,0.2,3.14
+ORD-2024-1647,2023-03-14,Rahul Verma,Premium Notebook 3-Pack,Office Supplies,West,2,22.0,37.4,0.15,6.77
+ORD-2024-1485,2023-01-10,Kavita Rao,iPad Air,Technology,East,3,599.0,1527.45,0.15,114.2
+ORD-2024-1798,2023-02-11,Arjun Kapoor,Wireless Laser Pointer,Office Supplies,West,3,29.0,87.0,0.0,25.62
+ORD-2024-1505,08/01/2024,Sneha Nair,Wooden Bookshelf 5-Tier,Furniture,East,8,180.0,1296.0,0.1,90.33
+ORD-2023-1244,14/10/2023,Daniel Clark,Gel Pen Set 12-Pack,Office Supplies,North,3,15.0,45.0,0.0,15.87
+ORD-2024-1567,2023-03-12,Michael Brown,Samsung Galaxy S23,Technology,North,1,799.0,759.05,0.05,150.36
+ORD-2024-1563,2023-06-14,Emily Taylor,Dell XPS 15,Technology,South,1,1250.0,1187.5,0.05,261.67
+ORD-2024-1687,2023-10-01,Daniel Clark,Logitech MX Master 3,Technology,South,4,99.0,396.0,,99.5
+ORD-2023-1190,2024-03-09,Aarav Sharma,Ergonomic Office Chair,Furniture,East,3,289.0,823.65,0.05,123.69
+ORD-2024-1700,29/01/2024,Emily Taylor,Wireless Laser Pointer,Office Supplies,South,7,29.0,162.4,0.2,31.33
+ORD-2024-1476,2024-03-15,James Anderson,Electric Standing Desk,Furniture,,1,450.0,360.0,0.2,1.82
+ORD-2024-1682,03-12-2024,Daniel Clark,USB-C Multiport Hub,Technology,West,3,49.0,139.65,0.05,26.14
+ORD-2024-1511,2023-02-19,Sarah Davis,Heavy-Duty Paper Shredder,Office Supplies,West,3,89.0,213.6,0.2,47.84
+ORD-2023-1059,2023-11-26,David Wilson,Gel Pen Set 12-Pack,Office Supplies,South,8,15.0,114.0,0.05,32.51
+ORD-2024-1475,2023-06-22,Ananya Singh,Steel Filing Cabinet,Furniture,North,3,140.0,336.0,0.2,-6.17
+ORD-2024-1561,2023-05-02,Sarah Davis,USB-C Multiport Hub,Technology,North,8,49.0,333.2,0.15,35.94
+ORD-2024-1748,2023-02-24,Robert Martinez,Ergonomic Office Chair,Furniture,North,5,289.0,1445.0,0.0,290.71
+ORD-2023-1253,11-29-2023,James Anderson,Conference Room Table,Furniture,West,6,620.0,3534.0,0.05,495.6
+ORD-2023-1022,03-09-2024,Robert Martinez,Stapler & Punch Kit,Office Supplies,South,5,18.0,76.5,0.15,11.75
+ORD-2023-1314,2023-09-04,Michael Brown,Gel Pen Set 12-Pack,Office Supplies,East,7,15.0,99.75,0.05,26.79
+ORD-2024-1460,2023-01-10,Vikram Reddy,Premium Notebook 3-Pack,Office Supplies,South,1,22.0,20.9,0.05,7.03
+ORD-2023-1161,2023-12-27,Emily Taylor,Sony WH-1000XM5,Technology,South,8,399.0,3032.4,0.05,517.8
+ORD-2023-1277,2024-06-06,Priya Patel,Wooden Bookshelf 5-Tier,Furniture,South,7,180.0,1071.0,0.15,31.36
+ORD-2023-1192,2024-06-23,John Smith,Stapler & Punch Kit,Office Supplies,South,7,18.0,119.7,0.05,41.65
+ORD-2023-1386,21/05/2023,Ananya Singh,Steel Filing Cabinet,Furniture,East,5,140.0,665.0,0.05,98.18
+ORD-2023-1414,2024-06-22,Robert Martinez,MacBook Air M2,Technology,West,6,999.0,5094.9,0.15,518.11
+ORD-2024-1492,2023-04-29,Manoj Kumar,Dell XPS 15,Technology,North,3,1250.0,3562.5,0.05,763.9
+ORD-2023-1344,2023-03-06,Robert Martinez,AirPods Pro,Technology,East,6,249.0,1419.3,0.05,288.93
+ORD-2024-1770,2023-10-07,Amit Joshi,iPad Air,Technology,East,7,599.0,3564.05,0.15,285.74
+ORD-2023-1309,2023-03-24,Arjun Kapoor,Stapler & Punch Kit,Office Supplies,North,2,18.0,30.6,0.15,7.36
+ORD-2024-1662,2024-01-27,Emily Taylor,Dell XPS 15,Technology,East,3,1250.0,3375.0,0.1,524.28
+ORD-2023-1131,07-23-2023,James Anderson,iPad Air,Technology,South,7,599.0,3354.4,0.2,215.03
+ORD-2024-1664,2023-04-03,Pooja Desai,Electric Standing Desk,Furniture,South,3,450.0,1215.0,0.1,153.09
+ORD-2023-1100,2023-06-27,Ananya Singh,MacBook Air M2,Technology,West,8,999.0,6393.6,0.2,338.92
+ORD-2023-1373,2023-05-17,Kavita Rao,Samsung Galaxy S23,Technology  ,  North ,1,799.0,639.2,0.2,22.37
+ORD-2023-1088,2023-03-29,Sarah Davis,Steel Filing Cabinet,Furniture,South,8,140.0,952.0,0.15,38.24
+ORD-2024-1459,08-08-2023,Arjun Kapoor,Logitech MX Master 3,Technology,South,5,99.0,420.75,0.15,44.02
+ORD-2023-1331,12/03/2023,Sarah Davis,Gel Pen Set 12-Pack,Office Supplies,West,3,15.0,40.5,0.1,12.19
+ORD-2023-1215,2023-07-04,John Smith,iPad Air,Technology  ,  North ,6,599.0,3234.6,0.1,558.8
+ORD-2024-1467,2023-07-14,Deepak Chopra,Logitech MX Master 3,Technology,West,6,99.0,475.2,0.2,33.25
+ORD-2023-1122,2024-04-12,Vikram Reddy,Executive Leather Chair,Furniture,South,2,350.0,595.0,0.15,5.23
+ORD-2024-1615,2023-03-27,Daniel Clark,Samsung Galaxy S23,Technology,North,7,799.0,5033.7,0.1,904.12
+ORD-2023-1021,29/06/2024,Vikram Reddy,Gel Pen Set 12-Pack,Office Supplies,West,3,15.0,40.5,0.1,10.65
+ORD-2024-1701,06-24-2023,Olivia White,Gel Pen Set 12-Pack,Office Supplies,South,3,15.0,42.75,0.05,14.78
+ORD-2023-1072,2024-05-12,John Smith,Gel Pen Set 12-Pack,Office Supplies,West,3,15.0,38.25,0.15,6.28
+ORD-2023-1107,03-28-2024,Ananya Singh,Heavy-Duty Paper Shredder,Office Supplies  ,  West ,8,89.0,712.0,0.0,244.64
+ORD-2023-1271,2023-01-12,Emma Johnson,Mesh Desktop Organizer,Office Supplies,South,1,25.0,25.0,0.0,8.6
+ORD-2023-1436,2023-02-20,Robert Martinez,Steel Filing Cabinet,Furniture,South,1,140.0,126.0,0.1,16.76
+ORD-2023-1103,19/06/2023,Daniel Clark,Dry Erase Whiteboard 36x24,Office Supplies,East,8,65.0,520.0,0.0,178.75
