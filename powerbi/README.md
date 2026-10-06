@@ -178,7 +178,7 @@ Add these 3 interactive slicers on the left sidebar or top filter bar:
 
 ## Step 6: Dashboard Design & Theme Palette
 
-A professional design impresses both business users and technical interviewers:
+A clean, modern design ensures clarity and usability for business stakeholders:
 
 * **Canvas Ratio**: 16:9 widescreen (1280 x 720 px)
 * **Background Color**: Clean light gray (`#F8FAFC` or `#F1F5F9`)
@@ -217,9 +217,8 @@ A professional design impresses both business users and technical interviewers:
 
 ---
 
-## 🎯 Interview Talking Points for Power BI
+## 💡 Key Design & DAX Best Practices
 
-When asked about your Power BI dashboard at HCLTech:
-1. **Model Simplicity**: Explain that you used a clean flat schema suitable for tabular analytics, converted data types strictly in Power Query, and removed dirty raw strings upfront.
-2. **DAX Safety**: Point out that you used `DIVIDE([Total Profit], [Total Sales], 0)` instead of the division slash `/` to prevent `#DIV/0!` errors when filtering zero-sales periods.
-3. **Actionable Insights**: Highlight that the dashboard directly informs the sales team where margin dilution is happening (e.g., high discounts eroding margins down to 5.8%).
+1. **Model Simplicity**: A clean flat schema suitable for tabular analytics, converting data types strictly in Power Query, and removing dirty raw strings upfront.
+2. **DAX Safety**: Using `DIVIDE([Total Profit], [Total Sales], 0)` instead of the division slash `/` prevents `#DIV/0!` errors when filtering zero-sales periods.
+3. **Actionable Insights**: The dashboard directly informs business teams where margin dilution is happening (e.g., high discounts eroding margins down to 5.8%).

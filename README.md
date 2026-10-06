@@ -8,7 +8,7 @@
 
 An end-to-end data engineering and business intelligence project demonstrating the complete data lifecycle: from ingesting raw, messy sales data to Python/Pandas data cleaning, SQLite relational storage, modular SQL analytics, and an interactive Power BI dashboard.
 
-Built for **Cloud Data Engineering** portfolio evaluation and technical interviews (e.g., HCLTech / Berribot).
+A modular, production-grade sales analytics and business intelligence solution.
 
 ---
 
@@ -31,8 +31,7 @@ Built for **Cloud Data Engineering** portfolio evaluation and technical intervie
 10. [Exploratory Data Analysis & Visualizations](#exploratory-data-analysis--visualizations)
 11. [Power BI Dashboard & DAX Measures](#power-bi-dashboard--dax-measures)
 12. [Key Business Insights](#key-business-insights)
-13. [Future Cloud Improvements (HCLTech Context)](#future-cloud-improvements-hcltech-context)
-14. [Interview Preparation Guide](#interview-preparation-guide)
+13. [Future Cloud Scalability Roadmap](#future-cloud-scalability-roadmap)
 
 ---
 
@@ -64,7 +63,6 @@ A mid-sized retail enterprise operates across four geographical regions (East, N
 * **Structured Storage**: Create a normalized SQLite database table to support relational SQL queries.
 * **Actionable Analytics**: Write clean, commented SQL queries to answer core business questions (revenue, profit, top products, regional leaders).
 * **Interactive Business Intelligence**: Create a Power BI dashboard with simple, high-performing DAX measures and interactive slicers.
-* **Interview Readiness**: Provide clear explanations and talking points for freshers preparing for Cloud Data Engineering roles.
 
 ---
 
@@ -133,9 +131,6 @@ Sales-Data-Analysis-Dashboard/
 │   ├── sales_by_region.png              # Geographical sales comparison
 │   ├── sales_by_category.png            # Donut chart & profit margin by category
 │   └── top_10_products.png              # Horizontal bar chart of top products
-│
-├── interview/
-│   └── interview_preparation.md  # 15 HCLTech interview Q&As, 60s pitch, data flow
 │
 ├── requirements.txt              # Project dependencies (pandas, matplotlib, numpy)
 └── README.md                     # Comprehensive project documentation
@@ -307,30 +302,20 @@ Average Order Value = DIVIDE([Total Sales], DISTINCTCOUNT(cleaned_sales_data[Ord
 
 ---
 
-## ☁️ Future Cloud Improvements (HCLTech Context)
+## ☁️ Future Cloud Scalability Roadmap
 
-In a Cloud Data Engineering environment at HCLTech, this local architecture can be modernized using cloud patterns:
+For enterprise cloud production environments, this pipeline architecture can scale using modern cloud patterns:
 
 1. **Cloud Object Storage (Data Lake)**:
-   * Store landing CSV files in **Azure Data Lake Storage Gen2 (ADLS)** or **AWS S3** organized in Medallion architecture (`bronze/raw`, `silver/cleansed`, `gold/curated`).
+   * Store landing CSV files in cloud object storage (**Azure Data Lake Storage Gen2** or **AWS S3**) following Medallion architecture (`bronze/raw`, `silver/cleansed`, `gold/curated`).
 2. **Distributed Big Data Processing**:
-   * Migrate Pandas ETL to **PySpark** running on **Azure Databricks** or **AWS EMR** for scaling to billions of records.
+   * Migrate Pandas ETL to **PySpark** running on **Databricks** or **Apache Spark** for scaling to millions of transactions.
 3. **Cloud Data Warehousing**:
    * Load clean datasets into **Snowflake**, **Azure Synapse Analytics**, or **Amazon Redshift** with automated partition keys and cluster keys.
 4. **Pipeline Orchestration**:
-   * Automate the daily batch pipeline using **Azure Data Factory (ADF)** or **Apache Airflow** DAGs with data quality validation (e.g. Great Expectations) and alerting.
+   * Automate the scheduled batch pipeline using **Apache Airflow** or **Azure Data Factory** DAGs with automated data quality validation and monitoring alerts.
 5. **Real-time Streaming**:
-   * Connect point-of-sale streams to **Azure Event Hubs** / **Apache Kafka** and process through **Spark Structured Streaming**.
-
----
-
-## 🎓 Interview Preparation Guide
-
-A dedicated interview preparation guide with 15 detailed questions is available at:
-👉 **[interview/interview_preparation.md](interview/interview_preparation.md)**
-
-### Quick 60-Second Elevator Pitch
-> *"I designed an end-to-end Sales Data Analysis & Business Intelligence project simulating enterprise retail workflows. I started with raw, messy sales data featuring missing values, duplicates, and mixed date formats. Using Python and Pandas, I built an ETL pipeline to clean, validate, and enrich the data. I loaded the clean records into an SQLite relational database, authored analytical SQL queries for business metrics, and connected the dataset to an interactive Power BI dashboard with custom DAX measures. This demonstrates my core data engineering foundation in data ingestion, transformation, relational schema design, and business reporting."*
+   * Ingest sales transactions via **Apache Kafka** or cloud message brokers, processed with **Spark Structured Streaming**.
 
 ---
 

@@ -3,7 +3,6 @@
 Data Cleaning and Transformation Pipeline
 Project: Sales Data Analysis & Business Intelligence Dashboard
 Author: Jeelani Mohammad
-Target: Cloud Data Engineering Portfolio / HCLTech Interview
 
 Description:
 This script performs automated Extract-Transform-Load (ETL) processing:

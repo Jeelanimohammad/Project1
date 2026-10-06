@@ -2,7 +2,7 @@
 =============================================================================
 SQL Query Runner
 Executes sales_analysis.sql queries on the SQLite database (sales_database.db)
-and formats results neatly in the terminal for interview demonstration.
+and formats results neatly in the terminal.
 =============================================================================
 """
 
